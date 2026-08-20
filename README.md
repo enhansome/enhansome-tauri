@@ -48,7 +48,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 * [Introduction](https://v2.tauri.app/start/) ![officially maintained] - Official introduction to Tauri.
 * [Getting Started](https://v2.tauri.app/start/prerequisites/) ![officially maintained] - Official getting started with Tauri docs.
-* [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) ⭐ 1,618 | 🐛 33 | 🌐 Rust | 📅 2026-08-18 ![officially maintained] - Rapidly scaffold your Tauri app.
+* [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) ⭐ 1,618 | 🐛 34 | 🌐 Rust | 📅 2026-08-18 ![officially maintained] - Rapidly scaffold your Tauri app.
 * [Auto-Updates with Tauri v2](https://docs.crabnebula.dev/guides/auto-updates-tauri) - Setup auto-updates with Tauri and CrabNebula Cloud.
 * [Create Tauri App with React](https://www.youtube.com/watch?v=zawhqLA7N9Y\&ab_channel=chrisbiscardi) ![youtube] - Chris Biscardi shows how easy it is to wire up a Rust crate with a JS module and communicate between them.
 * [Publish to Apple's App Store](https://thinkgo.io/post/2023/02/publish_tauri_to_apples_app_store/) - Details all the steps needed to publish your Mac app to the app store. Includes a sample bash script.
@@ -78,7 +78,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [tauri-preact-rsbuild-template](https://github.com/Alfredoes234/tauri-preact-rsbuild-template) ⚠️ Archived - Preact template that uses rsbuild, rather than vite.
 * [tauri-react-parcel-template](https://github.com/henrhie/tauri-react-parcel-template) ⭐ 86 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-07 - React template with Parcel as build tool, TypeScript and hot module replacement.
 * [tauri-bishop-template](https://github.com/RoseBlume/Bishop-Tauri-Template) ⭐ 84 | 🐛 1 | 🌐 CSS | 📅 2026-05-18 - Minimized vanilla template designed for highschool students.
-* [tauri-tanstack-start-react-template](https://github.com/kvnxiao/tauri-tanstack-start-react-template) ⭐ 52 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-13 ![v2] - React with TanStack Start and Vite template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
+* [tauri-tanstack-start-react-template](https://github.com/kvnxiao/tauri-tanstack-start-react-template) ⭐ 52 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-20 ![v2] - React with TanStack Start and Vite template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
 * [tauri-leptos-ssr](https://github.com/codeitlikemiley/tauri-leptos-ssr) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2026-05-29 - Leptos SSR Template for Smaller bundles, faster startups, better UX done right for desktop.
 * [tauronic](https://github.com/rgilsimoes/Tauronic/) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-02 - Tauri template for hybrid Apps using Ionic components in React flavour.
 * [tauri-fastapi-full-stack-template](https://github.com/fudanglp/tauri-fastapi-full-stack-template) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-08 ![v2] - Full-stack template with FastAPI (Python) backend, React + TypeScript frontend, SQLite/SQLModel, TanStack Router, Tailwind CSS, and shadcn/ui. Sidecar architecture with PyInstaller bundling.
@@ -92,9 +92,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 * [Official Plugins](https://github.com/tauri-apps/plugins-workspace) ⭐ 1,793 | 🐛 481 | 🌐 Rust | 📅 2026-08-13 ![officially maintained] - This repository contains all the plugins maintained by the Tauri team. This includes plugins for NFC, logging, notifications, and more.
 * [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ⭐ 1,032 | 🐛 19 | 🌐 Rust | 📅 2026-08-13 ![officially maintained] - Make your windows vibrant (v1 only - added to Tauri in v2).
-* [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) ⭐ 412 | 🐛 12 | 🌐 Rust | 📅 2026-08-19 - Convert a window to panel.
+* [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) ⭐ 412 | 🐛 11 | 🌐 Rust | 📅 2026-08-19 - Convert a window to panel.
 * [taurpc](https://github.com/MatsDK/TauRPC) ⭐ 331 | 🐛 2 | 🌐 Rust | 📅 2026-07-03 - Typesafe IPC wrapper for Tauri commands and events.
-* [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) ⭐ 314 | 🐛 8 | 🌐 Rust | 📅 2024-10-17 - Clipboard plugin for reading/writing clipboard text/image/html/rtf/files, and monitoring clipboard update.
+* [tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) ⭐ 315 | 🐛 8 | 🌐 Rust | 📅 2024-10-17 - Clipboard plugin for reading/writing clipboard text/image/html/rtf/files, and monitoring clipboard update.
 * [window-shadows](https://github.com/tauri-apps/window-shadows) ⚠️ Archived ![officially maintained] - Add native shadows to your windows in Tauri (v1 only - added to Tauri in v2).
 * [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) ⭐ 240 | 🐛 0 | 🌐 Rust | 📅 2024-10-26 - Native context menu.
 * [sentry-tauri](https://github.com/timfish/sentry-tauri) ⭐ 234 | 🐛 5 | 🌐 Rust | 📅 2026-08-04 - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
@@ -111,8 +111,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [tauri-plugin-system-info](https://github.com/HuakunShen/tauri-plugin-system-info) ⭐ 147 | 🐛 0 | 🌐 Rust | 📅 2025-04-03 - Detailed system information.
 * [tauri-plugin-desktop-underlay](https://github.com/Charlie-XIAO/tauri-plugin-desktop-underlay) ⭐ 143 | 🐛 4 | 🌐 Rust | 📅 2026-07-20 - Attach a window to desktop, below icons and above wallpaper.
 * [tauri-plugin-screenshots](https://github.com/ayangweb/tauri-plugin-screenshots) ⭐ 143 | 🐛 2 | 🌐 Rust | 📅 2025-05-01 - Get screenshots of windows and monitors.
-* [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) ⭐ 138 | 🐛 10 | 🌐 Rust | 📅 2026-07-22 - Persistent Pinia stores for Vue.
-* [tauri-plugin-svelte](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-svelte) ⭐ 138 | 🐛 10 | 🌐 Rust | 📅 2026-07-22 - Persistent Svelte stores.
+* [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) ⭐ 138 | 🐛 10 | 🌐 Rust | 📅 2026-08-19 - Persistent Pinia stores for Vue.
+* [tauri-plugin-svelte](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-svelte) ⭐ 138 | 🐛 10 | 🌐 Rust | 📅 2026-08-19 - Persistent Svelte stores.
 * [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) ⭐ 128 | 🐛 3 | 🌐 Rust | 📅 2025-03-26 - Tools for reading network information and scanning network.
 * [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) ⭐ 123 | 🐛 3 | 🌐 Rust | 📅 2026-08-09 - Advanced disk caching solution with memory layer, TTL management, compression support, and cross-platform compatibility for desktop and mobile.
 * [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) ⭐ 110 | 🐛 0 | 🌐 Rust | 📅 2025-10-23 - Extended with additional methods for files and directories.
@@ -124,7 +124,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) ⭐ 94 | 🐛 0 | 🌐 Rust | 📅 2025-08-05 - Native macOS drag-out (file promise) support.
 * [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) ⭐ 94 | 🐛 1 | 🌐 Rust | 📅 2025-02-11 - MQTT client support.
 * [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) ⭐ 92 | 🐛 1 | 🌐 Rust | 📅 2024-11-21 - View and share files on mobile.
-* [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) ⭐ 87 | 🐛 12 | 🌐 Rust | 📅 2026-08-19 - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
+* [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) ⭐ 87 | 🐛 15 | 🌐 Rust | 📅 2026-08-20 - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
 * [tauri-plugin-iap](https://github.com/Choochmeque/tauri-plugin-iap) ⭐ 79 | 🐛 9 | 🌐 Rust | 📅 2026-08-18 - Plugin that enables full In-App Purchases flow for Android, macOS, iOS and Windows.
 * [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) ⭐ 56 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 - Auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access
 * [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) ⭐ 56 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
@@ -149,7 +149,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) ⭐ 388 | 🐛 10 | 🌐 Rust | 📅 2026-08-14 - Example macOS Menubar app project.
 * [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) ⭐ 294 | 🐛 1 | 🌐 Rust | 📅 2025-09-21 - Example macOS Spotlight app project.
 * [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ⭐ 294 | 🐛 3 | 🌐 TypeScript | 📅 2026-06-11 - Integrate Tauri in a Vite project to build cross-platform apps.
-* [tauri-mcp-server](https://github.com/hypothesi/mcp-server-tauri) ⭐ 289 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-13 ![v2] - MCP server and plugin for rapid development and debugging.
+* [tauri-mcp-server](https://github.com/hypothesi/mcp-server-tauri) ⭐ 290 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-13 ![v2] - MCP server and plugin for rapid development and debugging.
 * [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) ⭐ 192 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-10 - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
 * [tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) ⭐ 187 | 🐛 12 | 🌐 TypeScript | 📅 2025-07-14 - One-click deploy a Tauri Update Server to Cloudflare.
 * [kkrpc](https://github.com/kunkunsh/kkrpc) ⭐ 172 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-13 - Seamless RPC communication between a Tauri app and node/deno/bun processes, just like Electron.
@@ -173,21 +173,21 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Audio & Video
 
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,105 | 🐛 114 | 🌐 Rust | 📅 2026-08-19 - 24/7 local AI screen & mic recording. Build AI apps with full context. Works with Ollama.
-* [Cap](https://github.com/CapSoftware/cap) ⭐ 20,996 | 🐛 314 | 🌐 TypeScript | 📅 2026-08-19 - The open-source Loom alternative. Beautiful, shareable screen recordings.
-* [Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ⭐ 4,761 | 🐛 208 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - Speech-to-text app. Press shortcut → speak → get text. Supports local and cloud transcription with AI transformations.
-* [Compresso](https://github.com/codeforreal1/compressO) ⭐ 4,373 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-17 - Cross-platform video compression app powered by FFmpeg.
-* [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) ⭐ 1,694 | 🐛 46 | 🌐 Vue | 📅 2026-08-18 - GUI client for a Jellyfin server based on Vue.js and Tauri.
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 21,119 | 🐛 112 | 🌐 Rust | 📅 2026-08-20 - 24/7 local AI screen & mic recording. Build AI apps with full context. Works with Ollama.
+* [Cap](https://github.com/CapSoftware/cap) ⭐ 21,018 | 🐛 311 | 🌐 TypeScript | 📅 2026-08-19 - The open-source Loom alternative. Beautiful, shareable screen recordings.
+* [Whispering](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ⭐ 4,762 | 🐛 206 | 🌐 TypeScript | 📅 2026-08-20 ![v2] - Speech-to-text app. Press shortcut → speak → get text. Supports local and cloud transcription with AI transformations.
+* [Compresso](https://github.com/codeforreal1/compressO) ⭐ 4,376 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-17 - Cross-platform video compression app powered by FFmpeg.
+* [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) ⭐ 1,695 | 🐛 46 | 🌐 Vue | 📅 2026-08-19 - GUI client for a Jellyfin server based on Vue.js and Tauri.
 * [Lofi Engine](https://github.com/meel-hd/lofi-engine) ⭐ 1,022 | 🐛 6 | 🌐 Svelte | 📅 2026-03-04 - Generate Lo-Fi music on the go and locally.
 * [Musicat](https://github.com/basharovV/musicat) ⭐ 934 | 🐛 30 | 🌐 Svelte | 📅 2026-08-08 - Sleek desktop music player and tagger for offline music.
 * [Curses](https://github.com/mmpneo/curses) ⭐ 718 | 🐛 1 | 🌐 TypeScript | 📅 2024-06-18 - Speech-to-Text and Text-to-Speech captions for OBS, VRChat, Twitch chat and more.
 * [Hopp](https://github.com/gethopp/hopp) ⭐ 662 | 🐛 46 | 🌐 Rust | 📅 2026-08-18 ![v2] - Open source remote pair programming app.
-* [NeoDLP](https://github.com/neosubhamoy/neodlp) ⭐ 550 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-26 ![v2] - Modern video/audio downloader based on `yt-dlp` with browser integration.
+* [NeoDLP](https://github.com/neosubhamoy/neodlp) ⭐ 552 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-26 ![v2] - Modern video/audio downloader based on `yt-dlp` with browser integration.
 * [Feiyu Player](https://github.com/idootop/feiyu-player) ⭐ 520 | 🐛 1 | 🌐 TypeScript | 📅 2024-12-07 - Cross-platform online video player where beauty meets functionality.
 * [Watson.ai](https://github.com/LatentDream/watson.ai) ⭐ 388 | 🐛 7 | 🌐 Rust | 📅 2025-01-26 - Easily record and extract the most important information from your meetings.
 * [Douyin Downloader](https://github.com/lzdyes/douyin-downloader) ⭐ 325 | 🐛 5 | 🌐 Vue | 📅 2023-03-06 - Cross-platform douyin video downloader.
-* [XGetter](https://github.com/xgetter-team/xgetter) ⭐ 301 | 🐛 11 | 📅 2026-07-18 ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
-* [Cardo](https://github.com/n0vella/cardo) ⭐ 271 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-01 - Podcast player with integrated search and management of subscriptions.
+* [XGetter](https://github.com/xgetter-team/xgetter) ⭐ 301 | 🐛 11 | 📅 2026-08-19 ![closed source]- Cross-platform GUI to download videos and audio from Youtube, Facebook, X(Twitter), Instagram, Tiktok and more.
+* [Cardo](https://github.com/n0vella/cardo) ⭐ 272 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-01 - Podcast player with integrated search and management of subscriptions.
 * [mediarepo](https://github.com/Trivernis/mediarepo) ⭐ 252 | 🐛 3 | 🌐 TypeScript | 📅 2024-05-29 - Tag-based media management application.
 * [Mr Tagger](https://github.com/probablykasper/mr-tagger) ⭐ 168 | 🐛 0 | 🌐 Rust | 📅 2026-07-25 - Music file tagging app.
 * [Ascapes Mixer](https://github.com/ilyaly/ascapes-mixer) ⭐ 106 | 🐛 1 | 🌐 Svelte | 📅 2025-03-28 - Audio mixer with three dedicated players for music, ambience and SFX for TTRPG sessions.
@@ -203,8 +203,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### ChatGPT clients
 
-* [ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,446 | 🐛 942 | 🌐 Rust | 📅 2024-08-29 - Cross-platform ChatGPT desktop application.
-* [Jan](https://github.com/menloresearch/jan) ⭐ 44,053 | 🐛 463 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - Open source alternative to ChatGPT that runs 100% offline on your computer.
+* [ChatGPT](https://github.com/lencx/ChatGPT) ⭐ 54,447 | 🐛 943 | 🌐 Rust | 📅 2024-08-29 - Cross-platform ChatGPT desktop application.
+* [Jan](https://github.com/menloresearch/jan) ⭐ 44,061 | 🐛 464 | 🌐 TypeScript | 📅 2026-08-20 ![v2] - Open source alternative to ChatGPT that runs 100% offline on your computer.
 * [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) ⚠️ Archived - Cross-platform productivity ChatGPT assistant launcher.
 * [Kaas](https://github.com/0xfrankz/Kaas) ⭐ 216 | 🐛 5 | 🌐 TypeScript | 📅 2025-04-03 - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.
 * [Orion](https://github.com/taecontrol/orion) ⭐ 197 | 🐛 0 | 🌐 Vue | 📅 2023-11-07 - Cross-platform app that lets you create multiple AI assistants with specific goals powered with ChatGPT.
@@ -218,8 +218,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [DocKit](https://github.com/geek-fun/dockit) ⭐ 1,132 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 - GUI client for NoSQL databases such as elasticsearch, OpenSearch, etc.
 * [Duckling](https://github.com/l1xnan/duckling) ⭐ 575 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-13 - Lightweight and fast viewer for csv/parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc.
 * [BS Redis Desktop Client](https://github.com/fuyoo/bs-redis-desktop-client) ⭐ 330 | 🐛 0 | 🌐 Vue | 📅 2025-12-31 - The Best Surprise Redis Desktop Client.
-* [RedisME](https://github.com/hepengju/redis-me) ⭐ 114 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 ![v2] - Redis Desktop Manager based on Tauri.
-* [Annimate](https://github.com/matthias-stemmler/annimate) ⭐ 95 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-19 - Convenient export of query results from the ANNIS system for linguistic corpora.
+* [RedisME](https://github.com/hepengju/redis-me) ⭐ 114 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - Redis Desktop Manager based on Tauri.
+* [Annimate](https://github.com/matthias-stemmler/annimate) ⭐ 95 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-19 - Convenient export of query results from the ANNIS system for linguistic corpora.
 * [Dataflare](https://dataflare.app) ![closed source] ![paid] - Simple and elegant database manager.
 * [Elasticvue](https://elasticvue.com/) - Free and open-source Elasticsearch GUI
 * [Noir](https://noirdb.dev) - Keyboard-driven database management client.
@@ -231,16 +231,16 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Developer tools
 
-* [Pake](https://github.com/tw93/Pake) ⭐ 60,868 | 🐛 2 | 🌐 Rust | 📅 2026-08-15 - Turn any webpage into a desktop app with Rust with ease.
-* [Rivet](https://github.com/Ironclad/rivet) ⭐ 4,668 | 🐛 107 | 🌐 TypeScript | 📅 2026-07-15 - Visual programming environment for creating AI features and agents.
-* [KFtray](https://github.com/hcavarsan/kftray) ⭐ 1,547 | 🐛 16 | 🌐 Rust | 📅 2026-08-18 - A tray application that manages port forwarding in Kubernetes.
+* [Pake](https://github.com/tw93/Pake) ⭐ 60,906 | 🐛 2 | 🌐 Rust | 📅 2026-08-15 - Turn any webpage into a desktop app with Rust with ease.
+* [Rivet](https://github.com/Ironclad/rivet) ⭐ 4,669 | 🐛 107 | 🌐 TypeScript | 📅 2026-07-15 - Visual programming environment for creating AI features and agents.
+* [KFtray](https://github.com/hcavarsan/kftray) ⭐ 1,549 | 🐛 16 | 🌐 Rust | 📅 2026-08-19 - A tray application that manages port forwarding in Kubernetes.
 * [DevTools-X](https://github.com/fosslife/devtools-x) ⭐ 1,532 | 🐛 13 | 🌐 TypeScript | 📅 2026-05-29 - Collection of 30+ cross platform development utilities.
 * [GitLight](https://github.com/colinlienard/gitlight) ⭐ 929 | 🐛 13 | 🌐 Svelte | 📅 2024-12-26 - GitHub & GitLab notifications on your desktop.
 * [Dropcode](https://github.com/egoist/dropcode) ⭐ 863 | 🐛 4 | 🌐 TypeScript | 📅 2022-11-17 - Simple and lightweight code snippet manager.
 * [Keyring Demo](https://github.com/open-source-cooperative/keyring-rs/wiki/Keyring) ⭐ 764 | 🐛 0 | 🌐 Rust | 📅 2026-08-11 ![v2] - GUI for the Rust `keyring` ecosystem
 * [Kubeli](https://github.com/atilladeniz/Kubeli) ⭐ 374 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-17 ![v2] - Kubernetes management with resource visualization, multi-cluster support, AI chat, and MCP server.
 * [Echoo](https://github.com/zsmatrix62/echoo-app) ⚠️ Archived - Offline/Online utilities for developers on MacOS & Windows.
-* [Keadex Mina](https://github.com/keadex/keadex) ⭐ 202 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-26 - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
+* [Keadex Mina](https://github.com/keadex/keadex) ⭐ 203 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-26 - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
 * [Docker DB Manager](https://github.com/AbianS/docker-db-manager) ⭐ 165 | 🐛 10 | 🌐 TypeScript | 📅 2026-06-05 ![v2] - Desktop app for managing Docker database containers with visual interface, data persistence, and one-click connection strings.
 * [Brew Services Manage](https://github.com/persiliao/brew-services-manage) ⭐ 149 | 🐛 4 | 📅 2024-12-30![closed source] macOS Menu Bar application for managing Homebrew services.
 * [Yume](https://github.com/aofp/yume) ⭐ 149 | 🐛 11 | 🌐 HTML | 📅 2026-08-01 ![v2] - Native desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
@@ -254,7 +254,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [PromptLab](https://github.com/haideralsh/prompt-lab) ⭐ 98 | 🐛 0 | 🌐 Rust | 📅 2025-12-01 ![v2] - Open-source, cross-platform desktop app for building and providing code-related context to large language models
 * [nda](https://github.com/kuyoonjo/nda) ⭐ 95 | 🐛 0 | 🌐 Svelte | 📅 2025-11-07 - Network Debug Assistant - UDP, TCP, Websocket, SocketIO, MQTT
 * [verbcode](https://github.com/Verbcode/verbcode-release) ⭐ 87 | 🐛 0 | 📅 2025-01-05 ![closed source] - Simplify your localization journey.
-* [Github Security Alerts](https://github.com/stephanebouget/github-security-alerts) ⭐ 5 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - Monitors security vulnerabilities across your GitHub repositories in real-time.
+* [Github Security Alerts](https://github.com/stephanebouget/github-security-alerts) ⭐ 5 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-20 ![v2] - Monitors security vulnerabilities across your GitHub repositories in real-time.
 * [Worktree Status](https://github.com/sandercox/worktree-status/) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-19 - Get git repo status in your macOS MenuBar or Windows notification area.
 * [Aptakube](https://aptakube.com/) ![closed source] - Multi-cluster Kubernetes UI.
 * [Beadbox](https://beadbox.app) ![closed source] - Real-time visual dashboard for monitoring AI agent task coordination, dependencies, and handoffs.
@@ -274,7 +274,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Ebook readers
 
-* [Readest](https://github.com/chrox/readest) ⭐ 23,547 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-18 - Modern and feature-rich ebook reader designed for avid readers.
+* [Readest](https://github.com/chrox/readest) ⭐ 23,567 | 🐛 119 | 🌐 TypeScript | 📅 2026-08-19 - Modern and feature-rich ebook reader designed for avid readers.
 * [Alexandria](https://github.com/btpf/Alexandria) ⭐ 2,717 | 🐛 28 | 🌐 TypeScript | 📅 2025-12-30 - Minimalistic cross-platform eBook reader.
 * [Cloak](https://github.com/Xav1erSue/cloak) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-31 - A see-through mini reader for slacking off at work.
 * [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
@@ -290,8 +290,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### File management
 
-* [Spacedrive](https://github.com/spacedriveapp/spacedrive) ⭐ 38,792 | 🐛 54 | 🌐 Rust | 📅 2026-07-29 - A file explorer from the future.
-* [Xplorer](https://github.com/kimlimjustin/xplorer) ⭐ 5,650 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-25 - Customizable, modern and cross-platform File Explorer.
+* [Spacedrive](https://github.com/spacedriveapp/spacedrive) ⭐ 38,798 | 🐛 54 | 🌐 Rust | 📅 2026-07-29 - A file explorer from the future.
+* [Xplorer](https://github.com/kimlimjustin/xplorer) ⭐ 5,651 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-25 - Customizable, modern and cross-platform File Explorer.
 * [SquirrelDisk](https://github.com/adileo/squirreldisk) ⭐ 1,813 | 🐛 60 | 🌐 TypeScript | 📅 2023-08-04 - Beautiful cross-platform disk usage analysis tool.
 * [Orange](https://github.com/naaive/orange) ⭐ 1,800 | 🐛 33 | 🌐 Rust | 📅 2023-10-15 - Cross-platform file search engine that can quickly locate files or folders based on keywords.
 * [MangoFinder](https://github.com/moyangzhan/mango-finder) ⭐ 250 | 🐛 1 | 🌐 Rust | 📅 2026-05-28 ![v2] - Search your files using nature language.
@@ -303,8 +303,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Finance
 
-* [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) ⭐ 30,385 | 🐛 10 | 🌐 C++ | 📅 2026-08-19 ![v2] - Advanced financial intelligence terminal with CFA-level analytics, AI agents, and 100+ data connectors.
-* [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) ⭐ 1,905 | 🐛 133 | 🌐 Rust | 📅 2026-08-19 - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
+* [Fincept Terminal](https://github.com/Fincept-Corporation/FinceptTerminal) ⭐ 30,400 | 🐛 10 | 🌐 C++ | 📅 2026-08-19 ![v2] - Advanced financial intelligence terminal with CFA-level analytics, AI agents, and 100+ data connectors.
+* [nym-wallet](https://github.com/nymtech/nym/tree/develop/nym-wallet) ⭐ 1,906 | 🐛 130 | 🌐 Rust | 📅 2026-08-19 - The Nym desktop wallet enables you to use the Nym network and take advantage of its key capabilities.
 * [UsTaxes](https://github.com/ustaxes/ustaxes) ⭐ 1,664 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-11 - Free, private, open-source US tax filings.
 * [Ghorbu Wallet](https://github.com/matthias-wright/ghorbu-wallet) ⭐ 94 | 🐛 0 | 🌐 Rust | 📅 2022-10-02 - Cross-platform desktop HD wallet for Bitcoin.
 * [CryptoBal](https://github.com/Rabbit-Company/CryptoBal-Desktop) ⭐ 92 | 🐛 0 | 🌐 Rust | 📅 2022-09-22 - Desktop application for monitoring your crypto assets.
@@ -316,14 +316,14 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Gaming
 
-* [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) ⭐ 2,315 | 🐛 1,035 | 🌐 Rust | 📅 2026-08-19 - Cross-platform launcher for `Minecraft` with mod management.
-* [Retrom](https://github.com/JMBeresford/retrom) ⭐ 2,046 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-16 - Private cloud game library distribution server + frontend/launcher.
-* [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) ⭐ 1,788 | 🐛 171 | 🌐 TypeScript | 📅 2026-04-20 - Chess database and game analysis app.
-* [Gale](https://github.com/Kesomannen/gale) ⭐ 726 | 🐛 61 | 🌐 Rust | 📅 2026-08-19 - Mod manager for many games on `Thunderstore`.
+* [Modrinth App](https://github.com/modrinth/code/blob/main/apps/app) ⭐ 2,318 | 🐛 1,028 | 🌐 Rust | 📅 2026-08-19 - Cross-platform launcher for `Minecraft` with mod management.
+* [Retrom](https://github.com/JMBeresford/retrom) ⭐ 2,048 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-16 - Private cloud game library distribution server + frontend/launcher.
+* [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) ⭐ 1,790 | 🐛 173 | 🌐 TypeScript | 📅 2026-04-20 - Chess database and game analysis app.
+* [Gale](https://github.com/Kesomannen/gale) ⭐ 727 | 🐛 62 | 🌐 Rust | 📅 2026-08-19 - Mod manager for many games on `Thunderstore`.
 * [Rai Pal](https://github.com/raicuparta/rai-pal) ⭐ 714 | 🐛 19 | 🌐 Rust | 📅 2026-08-18 - Manager for universal mods such as `UEVR` and `UUVR`.
-* [SJMC Launcher](https://github.com/UNIkeEN/SJMCL) ⭐ 563 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - Launcher for `Minecraft` with instance management and multi-account support.
-* [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) ⭐ 484 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-19 - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
-* [Deadlock Mod Manager](https://github.com/deadlock-mod-manager/deadlock-mod-manager) ⭐ 417 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-18 ![v2] - Mod manager for the Valve game Deadlock.
+* [SJMC Launcher](https://github.com/UNIkeEN/SJMCL) ⭐ 564 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - Launcher for `Minecraft` with instance management and multi-account support.
+* [OyasumiVR](https://github.com/Raphiiko/OyasumiVR) ⭐ 484 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-20 - Software that helps you sleep in virtual reality, for use with SteamVR, VRChat, and more.
+* [Deadlock Mod Manager](https://github.com/deadlock-mod-manager/deadlock-mod-manager) ⭐ 418 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - Mod manager for the Valve game Deadlock.
 * [Teyvat Guide](https://github.com/BTMuli/TeyvatGuide) ⭐ 416 | 🐛 4 | 🌐 Vue | 📅 2026-08-19 - Game Tool for Genshin Impact player.
 * [Steam Art Manager](https://github.com/Tormak9970/Steam-Art-Manager) ⭐ 307 | 🐛 7 | 🌐 Svelte | 📅 2026-07-03 - Tool for customizing the art of your Steam games.
 * [Samira](https://github.com/jsnli/Samira) ⭐ 270 | 🐛 11 | 🌐 Rust | 📅 2026-03-18 - Steam achievement manager for Linux.
@@ -362,8 +362,8 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Networking
 
-* [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐ 138,804 | 🐛 411 | 🌐 TypeScript | 📅 2026-08-19 - Continuation of Clash Verge, a rule-based proxy.
-* [EasyTier](https://github.com/EasyTier/EasyTier) ⭐ 13,223 | 🐛 467 | 🌐 Rust | 📅 2026-08-18 ![v2] - Simple, secure, decentralized virtual private network solution.
+* [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐ 138,916 | 🐛 409 | 🌐 TypeScript | 📅 2026-08-20 - Continuation of Clash Verge, a rule-based proxy.
+* [EasyTier](https://github.com/EasyTier/EasyTier) ⭐ 13,230 | 🐛 467 | 🌐 Rust | 📅 2026-08-18 ![v2] - Simple, secure, decentralized virtual private network solution.
 * [RustDesk](https://github.com/rustdesk/rustdesk-server) ⭐ 10,281 | 🐛 176 | 🌐 Rust | 📅 2026-08-07 - Self-hosted server for RustDesk, an open source remote desktop.
 * [TunnlTo](https://github.com/TunnlTo/desktop-app) ⭐ 1,963 | 🐛 2 | 📅 2026-04-14 - Windows WireGuard VPN client built for split tunneling.
 * [T-Shell](https://github.com/TheBlindM/T-Shell) ⭐ 581 | 🐛 31 | 🌐 HTML | 📅 2025-05-05 - An open-source SSH, SFTP intelligent command line terminal application.
@@ -371,7 +371,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [CyberAPI](https://github.com/vicanso/cyberapi) ⭐ 420 | 🐛 1 | 🌐 Rust | 📅 2024-05-30 - API tool client for developer.
 * [Mail-Dev](https://github.com/samirdjelal/mail-dev) ⭐ 362 | 🐛 2 | 🌐 JavaScript | 📅 2023-03-28 - Cross-platform, local SMTP server for email testing/debugging.
 * [Wirefish](https://github.com/stefanodevenuto/wirefish) ⭐ 300 | 🐛 6 | 🌐 Rust | 📅 2022-12-24 - Cross-platform packet sniffer and analyzer.
-* [mDNS-Browser](https://github.com/hrzlgnm/mdns-browser) ⭐ 176 | 🐛 8 | 🌐 Rust | 📅 2026-08-19 - Cross-platform mDNS browser app for discovering network services using mDNS.
+* [mDNS-Browser](https://github.com/hrzlgnm/mdns-browser) ⭐ 176 | 🐛 8 | 🌐 Rust | 📅 2026-08-20 - Cross-platform mDNS browser app for discovering network services using mDNS.
 * [Watcher](https://github.com/windht/watcher) ⭐ 148 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-05 - API manager built for a easier use to manage and collaborate.
 * [Jexpe](https://github.com/jexpe-apps/jexpe) ⭐ 145 | 🐛 1 | 🌐 TypeScript | 📅 2023-01-30 - Cross-platform, open source SSH and SFTP client that makes connecting to your remote servers easy.
 * [r-shell](https://github.com/GOODBOY008/r-shell) ⭐ 130 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - Modern SSH client featuring multi-session management, integrated file browser, system monitoring, and more.
@@ -381,11 +381,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Office & Writing
 
-* [Blinko](https://github.com/blinkospace/blinko) ⭐ 10,880 | 🐛 413 | 🌐 TypeScript | 📅 2026-08-03 ![v2] - Self-hosted personal AI note tool prioritizing privacy.
-* [HuLa](https://github.com/HuLaSpark/HuLa) ⭐ 7,574 | 🐛 23 | 🌐 Vue | 📅 2026-08-15 - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
-* [MarkFlowy](https://github.com/drl990114/MarkFlowy) ⭐ 2,359 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-18 - Modern markdown editor application with built-in ChatGPT extension.
+* [Blinko](https://github.com/blinkospace/blinko) ⭐ 10,882 | 🐛 413 | 🌐 TypeScript | 📅 2026-08-03 ![v2] - Self-hosted personal AI note tool prioritizing privacy.
+* [HuLa](https://github.com/HuLaSpark/HuLa) ⭐ 7,611 | 🐛 23 | 🌐 Vue | 📅 2026-08-15 - HuLa is a desktop instant messaging app built on Tauri+Vue3 (not just instant messaging).
+* [MarkFlowy](https://github.com/drl990114/MarkFlowy) ⭐ 2,359 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-19 - Modern markdown editor application with built-in ChatGPT extension.
 * [MDX Notes](https://github.com/maqi1520/mdx-notes/tree/tauri-app) ⭐ 1,595 | 🐛 26 | 🌐 TypeScript | 📅 2026-02-16 - Versatile WeChat typesetting editor and cross-platform Markdown note-taking software.
-* [Gramax](https://github.com/Gram-ax/gramax) ⭐ 596 | 🐛 267 | 🌐 TypeScript | 📅 2026-08-12 - Free, open-source application for creating, editing, and publishing Git-driven documentation sites using Markdown and a visual editor.
+* [Gramax](https://github.com/Gram-ax/gramax) ⭐ 596 | 🐛 269 | 🌐 TypeScript | 📅 2026-08-12 - Free, open-source application for creating, editing, and publishing Git-driven documentation sites using Markdown and a visual editor.
 * [Astro Editor](https://github.com/dannysmith/astro-editor) ⭐ 491 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-15 - Clean markdown editor for Astro content collections with frontmatter editing, component insertion, and writing-focused interface.
 * [fylepad](https://github.com/imrofayel/fylepad/) ⭐ 304 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-09 - Notepad with powerful rich-text editing, built with Vue & Tauri.
 * [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) ⭐ 298 | 🐛 3 | 🌐 Rust | 📅 2023-08-01 - Cross-platform markdown editor; built with Yew, Tailwind, and DaisyUI.
@@ -404,13 +404,13 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Productivity
 
-* [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) ⭐ 7,312 | 🐛 95 | 🌐 Rust | 📅 2026-08-13 - Powerful open-source clipboard manager for macOS, Windows and Linux(x11) platforms.
+* [EcoPaste](https://github.com/ayangweb/EcoPaste/tree/master) ⭐ 7,313 | 🐛 95 | 🌐 Rust | 📅 2026-08-13 - Powerful open-source clipboard manager for macOS, Windows and Linux(x11) platforms.
 * [PasteBar](https://github.com/PasteBar/PasteBarApp) ⭐ 2,138 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-18 - Limitless, Free Clipboard Manager for Mac and Windows. Effortless management of everything you copy and paste.
 * [Kanri](https://github.com/trobonox/kanri) ⭐ 2,001 | 🐛 134 | 🌐 Vue | 📅 2026-08-15 - Cross-platform, offline-first Kanban board app with a focus on simplicity and user experience.
-* [Shell360](https://github.com/nashaofu/shell360) ⭐ 1,153 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-18 ![v2] - Cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
+* [Shell360](https://github.com/nashaofu/shell360) ⭐ 1,154 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-20 ![v2] - Cross-platform open-source SSH and SFTP client with port forwarding and encrypted data storage, designed for developers and system administrators.
 * [PicSharp](https://github.com/AkiraBit/PicSharp) ⭐ 1,004 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-13 ![v2] - With powerful and richly configured compression functions, it helps you easily optimize images, providing outstanding performance and a convenient operation experience.
 * [WindowPet](https://github.com/SeakMengs/WindowPet) ⭐ 656 | 🐛 18 | 🌐 TypeScript | 📅 2025-04-11 - Overlay app that lets you have adorable companions such as pets and anime characters on your screen.
-* [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) ⭐ 557 | 🐛 10 | 🌐 Rust | 📅 2026-08-19 - Focuses on app launching with error correction, supports full/pinyin/abbreviation searches. Features customizable interface and keyboard shortcuts.
+* [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) ⭐ 558 | 🐛 10 | 🌐 Rust | 📅 2026-08-19 - Focuses on app launching with error correction, supports full/pinyin/abbreviation searches. Features customizable interface and keyboard shortcuts.
 * [Pomodoro](https://github.com/g07cha/pomodoro) ⭐ 476 | 🐛 8 | 🌐 Rust | 📅 2026-02-03 - Time management tool based on Pomodoro technique.
 * [Qopy](https://github.com/0PandaDEV/Qopy) ⭐ 395 | 🐛 23 | 🌐 Vue | 📅 2026-03-15 - The fixed Clipboard Manager for Windows and Mac.
 * [MacroGraph](https://github.com/Brendonovich/macrograph) ⭐ 304 | 🐛 77 | 🌐 TypeScript | 📅 2026-06-13 - Visual programming for content creators.
@@ -422,7 +422,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [Gitification](https://github.com/Gitification-App/gitification) ⭐ 167 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-28 - Menu bar app for managing Github notifications.
 * [BuildLog](https://github.com/rajatkulkarni95/buildlog) ⭐ 152 | 🐛 0 | 🌐 TypeScript | 📅 2023-02-21 - Menu bar for keeping track of Vercel Deployments.
 * [Takma](https://github.com/jam53/Takma) ⭐ 150 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-13 - Kanban-style to-do app, fully offline with support for Markdown, labels, due dates, checklists and deep linking.
-* [UniMe](https://github.com/impierce/identity-wallet) ⭐ 130 | 🐛 95 | 🌐 Rust | 📅 2026-08-17 ![v2] - Identity Wallet for people to manage Decentralized Identities and Verifiable Credentials.
+* [UniMe](https://github.com/impierce/identity-wallet) ⭐ 130 | 🐛 96 | 🌐 Rust | 📅 2026-08-19 ![v2] - Identity Wallet for people to manage Decentralized Identities and Verifiable Credentials.
 * [Obliqoro](https://github.com/mrjackwills/obliqoro) ⭐ 128 | 🐛 2 | 🌐 Rust | 📅 2025-12-12 - Oblique Strategies meets Pomodoro.
 * [Dalgona](https://github.com/GHGHGHKO/dalgona) ⭐ 113 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-25 - GIF meme finder app for Windows and macOS.
 * [Tranzit](https://github.com/kr5hn4/tranzit) ⭐ 106 | 🐛 0 | 🌐 Rust | 📅 2025-11-01 ![v2] - Cross-platform app to securely share files with nearby devices over your local network.
@@ -479,13 +479,13 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ### Utilities
 
-* [Pot](https://github.com/pot-app/pot-desktop) ⭐ 19,299 | 🐛 450 | 🌐 JavaScript | 📅 2026-07-04 - Cross-platform Translation Software.
-* [RapidRAW](https://github.com/CyberTimon/RapidRAW) ⭐ 9,407 | 🐛 337 | 🌐 TypeScript | 📅 2026-08-17 ![v2] - RAW image editor delivering lightweight high-performance experience across Windows, macOS, and Linux.
-* [NeoHtop](https://github.com/Abdenasser/neohtop) ⭐ 9,301 | 🐛 18 | 🌐 Svelte | 📅 2026-03-30 - Cross platform system monitoring tool with a model look and feel.
-* [Flying Carpet](https://github.com/spieglt/flyingcarpet) ⭐ 5,300 | 🐛 15 | 🌐 Rust | 📅 2026-08-12 - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
-* [MagicMirror](https://github.com/idootop/MagicMirror) ⭐ 2,882 | 🐛 8 | 🌐 TypeScript | 📅 2025-07-10 - Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you!
+* [Pot](https://github.com/pot-app/pot-desktop) ⭐ 19,304 | 🐛 449 | 🌐 JavaScript | 📅 2026-07-04 - Cross-platform Translation Software.
+* [RapidRAW](https://github.com/CyberTimon/RapidRAW) ⭐ 9,425 | 🐛 340 | 🌐 TypeScript | 📅 2026-08-19 ![v2] - RAW image editor delivering lightweight high-performance experience across Windows, macOS, and Linux.
+* [NeoHtop](https://github.com/Abdenasser/neohtop) ⭐ 9,302 | 🐛 18 | 🌐 Svelte | 📅 2026-03-30 - Cross platform system monitoring tool with a model look and feel.
+* [Flying Carpet](https://github.com/spieglt/flyingcarpet) ⭐ 5,303 | 🐛 15 | 🌐 Rust | 📅 2026-08-12 - File transfer between Android, iOS, Linux, macOS, and Windows over auto-configured hotspot.
+* [MagicMirror](https://github.com/idootop/MagicMirror) ⭐ 2,883 | 🐛 9 | 🌐 TypeScript | 📅 2025-07-10 - Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you!
 * [Pointless](https://github.com/kkoomen/pointless) ⭐ 1,825 | 🐛 16 | 🌐 JavaScript | 📅 2024-06-19 - Endless drawing canvas.
-* [SlimeVR Server](https://github.com/SlimeVR/SlimeVR-Server) ⭐ 1,026 | 🐛 83 | 🌐 Fluent | 📅 2026-08-19 - Server app for SlimeVR, facilitating full-body tracking in virtual reality.
+* [SlimeVR Server](https://github.com/SlimeVR/SlimeVR-Server) ⭐ 1,026 | 🐛 83 | 🌐 Fluent | 📅 2026-08-20 - Server app for SlimeVR, facilitating full-body tracking in virtual reality.
 * [Verve](https://github.com/ParthJadhav/verve) ⭐ 856 | 🐛 24 | 🌐 Rust | 📅 2026-03-13 - Launcher for accessing and opening applications, files and documents.
 * [TrguiNG](https://github.com/openscopeproject/TrguiNG) ⭐ 785 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-05 - Remote GUI for Transmission torrent daemon.
 * [Mobslide](https://github.com/thewh1teagle/mobslide) ⭐ 488 | 🐛 2 | 🌐 TypeScript | 📅 2025-01-25 - Turn your smartphone into presentation remote controller.
@@ -493,7 +493,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [RMBG](https://github.com/zhbhun/rmbg) ⭐ 396 | 🐛 3 | 🌐 TypeScript | 📅 2024-04-30 - Cross-platform image background removal tool.
 * [Stable Diffusion Buddy](https://github.com/breadthe/sd-buddy) ⭐ 372 | 🐛 0 | 🌐 Svelte | 📅 2022-12-05 - Desktop UI companion for the self-hosted Mac version of Stable Diffusion.
 * [WSL UI](https://github.com/octasoft-ltd/wsl-ui) ⭐ 354 | 🐛 59 | 🌐 TypeScript | 📅 2026-07-01 ![v2] - A lightweight desktop application for managing WSL distributions on Windows.
-* [Lingo](https://github.com/thewh1teagle/lingo) ⭐ 251 | 🐛 11 | 🌐 TypeScript | 📅 2024-07-13 - Translate offline in every language on every platform.
+* [Lingo](https://github.com/thewh1teagle/lingo) ⭐ 250 | 🐛 11 | 🌐 TypeScript | 📅 2024-07-13 - Translate offline in every language on every platform.
 * [Lanaya](https://github.com/ChurchTao/Lanaya) ⭐ 234 | 🐛 0 | 🌐 Rust | 📅 2025-11-26 - Easy to use, cross-platform clipboard management.
 * [DecentPaste](https://github.com/decentpaste/decentpaste) ⭐ 233 | 🐛 5 | 🌐 Rust | 📅 2026-08-10 ![v2] - Cross-platform clipboard sharing over local network with P2P encryption.
 * [Stacks](https://github.com/cablehead/stacks) ⭐ 215 | 🐛 29 | 🌐 Rust | 📅 2025-08-16 - Modern and capable clipboard manager for macOS. Seeking Linux and Windows contributions.
@@ -506,7 +506,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [Dwall](https://github.com/dwall-rs/dwall) ⭐ 154 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-16 - Change the Windows desktop and lock screen wallpapers according to the sun's azimuth and altitude angles, just like on macOS.
 * [Auto Wallpaper](https://github.com/auto-wallpaper/auto-wallpaper) ⭐ 152 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-12 - Automatically generates 4K wallpapers based on user's location, weather, and time of day or any custom prompts.
 * [TypeView - KeyStroke Visualizer](https://github.com/dunkbing/typeview) ⭐ 141 | 🐛 0 | 🌐 Rust | 📅 2024-08-07 - Visualizes keys pressed on the screen and simulates the sound of mechanical keyboard.
-* [SoulFire](https://github.com/AlexProgrammerDE/SoulFireClient) ⭐ 141 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-19 - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
+* [SoulFire](https://github.com/AlexProgrammerDE/SoulFireClient) ⭐ 141 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-20 - Advanced Minecraft Server-Stresser Tool. Launch bot attacks on your servers to measure performance.
 * [Pavo](https://github.com/zhanglun/pavo) ⭐ 140 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - Cross-platform desktop wallpaper application.
 * [Basset](https://github.com/mohammadmansour200/basset) ⭐ 139 | 🐛 2 | 🌐 TypeScript | 📅 2025-08-24 ![v2] - All-in-one offline media toolkit: cut, convert, compress, and remove instruments from audio, video, and images.
 * [ToeRings](https://github.com/acarl005/toerings) ⭐ 135 | 🐛 2 | 🌐 Rust | 📅 2023-06-12 - Conky Seamod inspired system monitor app.
@@ -521,7 +521,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [bewCloud Desktop Sync](https://github.com/bewcloud/bewcloud-desktop) ⭐ 112 | 🐛 0 | 📅 2025-09-12 - Desktop sync app for bewCloud, a simpler alternative to Nextcloud and ownCloud.
 * [Tmus](https://github.com/saicem/tmus) ⭐ 102 | 🐛 0 | 🌐 Rust | 📅 2026-06-07 ![v2] - Monitor your time on desktop apps and visualize it with various charts.
 * [Passwords](https://github.com/hiql/passwords-app) ⭐ 100 | 🐛 0 | 🌐 Rust | 📅 2025-02-01 - A random password generator.
-* [Rounded Corners](https://github.com/RoundedCorners/Application) ⭐ 99 | 🐛 9 | 🌐 Rust | 📅 2026-08-19 - Rounded Corners app for Windows.
+* [Rounded Corners](https://github.com/RoundedCorners/Application) ⭐ 99 | 🐛 9 | 🌐 Rust | 📅 2026-08-20 - Rounded Corners app for Windows.
 * [TrayFier](https://github.com/dubisdev/trayfier) ⭐ 98 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-08 - Supercharge your Windows Tray with links, files, executables...
 * [Wallpaper changer](https://github.com/zeet2020/wallpaper-changer-tauri) ⭐ 88 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-30 - Simple wallpaper changer app.
 * [AgeTimer](https://github.com/dhextras/age-timer-tauri) ⭐ 85 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-17 - Desktop utility that counts your age in real-time.
@@ -551,4 +551,4 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
