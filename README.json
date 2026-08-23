@@ -27,7 +27,7 @@
             "archived": false,
             "id": 513734670,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T13:40:29Z",
+            "last_commit": "2026-08-22T13:35:54Z",
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
             "stars": 694
@@ -903,7 +903,7 @@
             "archived": false,
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-22T02:57:37Z",
+            "last_commit": "2026-08-23T00:49:09Z",
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 87
@@ -1011,7 +1011,7 @@
             "last_commit": "2026-07-05T02:30:44Z",
             "owner": "DraviaVemal",
             "repo": "tauri-remote-ui",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -1212,7 +1212,7 @@
             "last_commit": "2026-07-26T01:30:00Z",
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 780
+            "stars": 781
           }
         },
         {
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:06:22.909Z",
+    "last_updated": "2026-08-23T03:14:30.114Z",
     "original_repository": "tauri-apps/awesome-tauri",
     "original_repository_id": 450871432,
     "original_repository_sha": "93d2e091a91b2f1d0c5efffc412015688ce22838",
