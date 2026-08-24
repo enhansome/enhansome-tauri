@@ -42,7 +42,7 @@
             "archived": false,
             "id": 485947529,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:44:31Z",
+            "last_commit": "2026-08-23T05:06:39Z",
             "owner": "Uninen",
             "repo": "tauri-vue-template",
             "stars": 489
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-12T13:18:42Z",
             "owner": "dannysmith",
             "repo": "tauri-template",
-            "stars": 299
+            "stars": 300
           }
         },
         {
@@ -360,22 +360,7 @@
             "last_commit": "2026-02-08T15:10:23Z",
             "owner": "fudanglp",
             "repo": "tauri-fastapi-full-stack-template",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-leptos-ssr",
-          "description": "Leptos SSR Template for Smaller bundles, faster startups, better UX done right for desktop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1003811189,
-            "language": "Rust",
-            "last_commit": "2026-05-29T08:00:47Z",
-            "owner": "codeitlikemiley",
-            "repo": "tauri-leptos-ssr",
-            "stars": 22
+            "stars": 24
           }
         },
         {
@@ -391,6 +376,21 @@
             "owner": "rgilsimoes",
             "repo": "Tauronic",
             "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tauri-leptos-ssr",
+          "description": "Leptos SSR Template for Smaller bundles, faster startups, better UX done right for desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1003811189,
+            "language": "Rust",
+            "last_commit": "2026-05-29T08:00:47Z",
+            "owner": "codeitlikemiley",
+            "repo": "tauri-leptos-ssr",
+            "stars": 21
           }
         }
       ],
@@ -408,10 +408,10 @@
             "archived": false,
             "id": 450890277,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:38:37Z",
+            "last_commit": "2026-08-23T18:03:43Z",
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1798
+            "stars": 1800
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-21T19:32:28Z",
             "owner": "tauri-apps",
             "repo": "window-vibrancy",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-07-06T09:13:30Z",
             "owner": "MnlPhlp",
             "repo": "tauri-plugin-blec",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -903,10 +903,10 @@
             "archived": false,
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-23T00:49:09Z",
+            "last_commit": "2026-08-23T22:47:27Z",
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -918,7 +918,7 @@
             "archived": false,
             "id": 1028523824,
             "language": "Rust",
-            "last_commit": "2026-08-18T08:56:07Z",
+            "last_commit": "2026-08-23T22:04:15Z",
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 81
@@ -993,7 +993,7 @@
             "archived": false,
             "id": 1141674043,
             "language": "Rust",
-            "last_commit": "2026-06-22T21:31:44Z",
+            "last_commit": "2026-08-23T23:21:59Z",
             "owner": "edisdev",
             "repo": "tauri-plugin-device-info",
             "stars": 32
@@ -1224,7 +1224,7 @@
             "archived": false,
             "id": 756580573,
             "language": "Rust",
-            "last_commit": "2026-08-20T04:33:54Z",
+            "last_commit": "2026-08-24T01:51:23Z",
             "owner": "ahkohd",
             "repo": "tauri-macos-menubar-app-example",
             "stars": 388
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:14:30.114Z",
+    "last_updated": "2026-08-24T03:15:55.303Z",
     "original_repository": "tauri-apps/awesome-tauri",
     "original_repository_id": 450871432,
     "original_repository_sha": "93d2e091a91b2f1d0c5efffc412015688ce22838",
