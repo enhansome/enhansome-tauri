@@ -90,7 +90,7 @@
             "last_commit": "2026-08-12T13:18:42Z",
             "owner": "dannysmith",
             "repo": "tauri-template",
-            "stars": 300
+            "stars": 301
           }
         },
         {
@@ -903,7 +903,7 @@
             "archived": false,
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:47:27Z",
+            "last_commit": "2026-08-24T13:31:34Z",
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 88
@@ -1385,10 +1385,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:15:55.303Z",
+    "last_updated": "2026-08-24T13:57:21.649Z",
     "original_repository": "tauri-apps/awesome-tauri",
     "original_repository_id": 450871432,
-    "original_repository_sha": "93d2e091a91b2f1d0c5efffc412015688ce22838",
+    "original_repository_sha": "a68d51963d5aea5e1cf2149cce4ac752166e2587",
     "enhanced_repository": "enhansome/enhansome-tauri",
     "enhanced_repository_description": null,
     "title": "Awesome tauri with stars"
