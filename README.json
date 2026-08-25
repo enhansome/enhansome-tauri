@@ -903,7 +903,7 @@
             "archived": false,
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-25T00:54:35Z",
+            "last_commit": "2026-08-25T03:14:11Z",
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 88
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:11:51.281Z",
+    "last_updated": "2026-08-25T05:49:24.155Z",
     "original_repository": "tauri-apps/awesome-tauri",
     "original_repository_id": 450871432,
     "original_repository_sha": "a68d51963d5aea5e1cf2149cce4ac752166e2587",
