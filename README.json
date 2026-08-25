@@ -57,7 +57,7 @@
             "archived": false,
             "id": 473847178,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T17:12:19Z",
+            "last_commit": "2026-08-24T22:49:49Z",
             "owner": "elibroftw",
             "repo": "modern-desktop-app-template",
             "stars": 369
@@ -846,7 +846,7 @@
             "last_commit": "2025-04-12T02:27:13Z",
             "owner": "smokingplaya",
             "repo": "tauri-plugin-drpc",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -903,7 +903,7 @@
             "archived": false,
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:31:34Z",
+            "last_commit": "2026-08-25T00:54:35Z",
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 88
@@ -1212,7 +1212,7 @@
             "last_commit": "2026-07-26T01:30:00Z",
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 781
+            "stars": 782
           }
         },
         {
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:21.649Z",
+    "last_updated": "2026-08-25T03:11:51.281Z",
     "original_repository": "tauri-apps/awesome-tauri",
     "original_repository_id": 450871432,
     "original_repository_sha": "a68d51963d5aea5e1cf2149cce4ac752166e2587",

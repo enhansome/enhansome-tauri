@@ -44,7 +44,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [nuxtor](https://github.com/NicolaSpadari/nuxtor) ⭐ 865 | 🐛 0 | 🌐 Vue | 📅 2026-07-05 ![v2] - Nuxt 4 + Tauri 2 + TailwindCSS v4, a starter template for building desktop apps.
 * [tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) ⭐ 694 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-22 ![v2] - Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured.
 * [tauri-vue-template](https://github.com/Uninen/tauri-vue-template) ⭐ 489 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-23 ![v2] - Vue template with TypeScript, Vite + HMR, Vitest, Tailwind CSS, ESLint, and GitHub Actions.
-* [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) ⭐ 369 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-08 ![v2] - React Mantine template featuring custom titlebar for Windows, auto publish action, auto update, and more.
+* [tauri-react-mantine-vite-template](https://github.com/elibroftw/modern-desktop-app-template) ⭐ 369 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 ![v2] - React Mantine template featuring custom titlebar for Windows, auto publish action, auto update, and more.
 * [tauri-solid-ts-tailwind-vite-template](https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite) ⭐ 301 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 ![v2] - SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint and Prettier.
 * [tauri-template](https://github.com/dannysmith/tauri-template) ⭐ 301 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-12 ![v2] - Production-ready template with React, TypeScript, shadcn/ui, Tailwind, Tanstack Query, Zustand & boilerplate UI. Claude Code-ready.
 * [create-tauri-react](https://github.com/MrLightful/create-tauri-react) ⭐ 234 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-05 ![v2] - Well-architected template for Vite, React, and Tailwind CSS.
@@ -72,7 +72,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Plugins
 
-* [Official Plugins](https://github.com/tauri-apps/plugins-workspace) ⭐ 1,800 | 🐛 484 | 🌐 Rust | 📅 2026-08-23 ![officially maintained] - This repository contains all the plugins maintained by the Tauri team. This includes plugins for NFC, logging, notifications, and more.
+* [Official Plugins](https://github.com/tauri-apps/plugins-workspace) ⭐ 1,800 | 🐛 486 | 🌐 Rust | 📅 2026-08-23 ![officially maintained] - This repository contains all the plugins maintained by the Tauri team. This includes plugins for NFC, logging, notifications, and more.
 * [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ⭐ 1,033 | 🐛 19 | 🌐 Rust | 📅 2026-08-21 ![officially maintained] - Make your windows vibrant (v1 only - added to Tauri in v2).
 * [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) ⭐ 412 | 🐛 11 | 🌐 Rust | 📅 2026-08-19 ![v2] - Convert a window to panel.
 * [taurpc](https://github.com/MatsDK/TauRPC) ⭐ 332 | 🐛 2 | 🌐 Rust | 📅 2026-07-03 ![v2] - Typesafe IPC wrapper for Tauri commands and events.
@@ -101,11 +101,11 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) ⭐ 104 | 🐛 18 | 🌐 Rust | 📅 2026-06-28 ![v2] - Cross-compatible serialport communication tool.
 * [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) ⭐ 102 | 🐛 2 | 🌐 Rust | 📅 2025-07-21 ![v2] - TCP socket support.
 * [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) ⭐ 102 | 🐛 1 | 🌐 Rust | 📅 2025-02-18 ![v2] - UDP socket support.
-* [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) ⭐ 98 | 🐛 1 | 🌐 TypeScript | 📅 2025-04-12 ![v2] - Discord RPC support.
+* [tauri-plugin-drpc](https://github.com/smokingplaya/tauri-plugin-drpc) ⭐ 99 | 🐛 1 | 🌐 TypeScript | 📅 2025-04-12 ![v2] - Discord RPC support.
 * [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) ⭐ 94 | 🐛 0 | 🌐 Rust | 📅 2025-08-05 ![v2] - Native macOS drag-out (file promise) support.
 * [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) ⭐ 94 | 🐛 1 | 🌐 Rust | 📅 2025-02-11 ![v2] - MQTT client support.
 * [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) ⭐ 92 | 🐛 1 | 🌐 Rust | 📅 2024-11-21 ![v2] - View and share files on mobile.
-* [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) ⭐ 88 | 🐛 22 | 🌐 Rust | 📅 2026-08-24 ![v2] - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
+* [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) ⭐ 88 | 🐛 21 | 🌐 Rust | 📅 2026-08-25 ![v2] - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
 * [tauri-plugin-iap](https://github.com/Choochmeque/tauri-plugin-iap) ⭐ 81 | 🐛 15 | 🌐 Rust | 📅 2026-08-23 ![v2] - Plugin that enables full In-App Purchases flow for Android, macOS, iOS and Windows.
 * [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) ⭐ 56 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 ![v2] - Auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access.
 * [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) ⭐ 56 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 ![v2] - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
@@ -129,7 +129,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ## Integrations
 
 * [Astrodon](https://github.com/astrodon/astrodon) ⭐ 1,024 | 🐛 11 | 🌐 TypeScript | 📅 2023-03-26 ![v1] - Make Tauri desktop apps with Deno.
-* [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) ⭐ 781 | 🐛 28 | 🌐 Rust | 📅 2026-07-26 ![v2] - Completely typesafe Tauri commands.
+* [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) ⭐ 782 | 🐛 28 | 🌐 Rust | 📅 2026-07-26 ![v2] - Completely typesafe Tauri commands.
 * [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) ⭐ 388 | 🐛 10 | 🌐 Rust | 📅 2026-08-24telemetry - Example macOS Menubar app project.
 * [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) ⭐ 294 | 🐛 1 | 🌐 Rust | 📅 2025-09-21telemetry - Example macOS Spotlight app project.
 * [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ⭐ 294 | 🐛 3 | 🌐 TypeScript | 📅 2026-06-11 ![v2] - Integrate Tauri in a Vite project to build cross-platform apps.
@@ -159,4 +159,4 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
