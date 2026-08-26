@@ -42,7 +42,7 @@
             "archived": false,
             "id": 485947529,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T05:06:39Z",
+            "last_commit": "2026-08-25T15:38:27Z",
             "owner": "Uninen",
             "repo": "tauri-vue-template",
             "stars": 489
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 420092493,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:26:18Z",
+            "last_commit": "2026-08-26T02:05:09Z",
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
             "stars": 301
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 450890277,
             "language": "Rust",
-            "last_commit": "2026-08-23T18:03:43Z",
+            "last_commit": "2026-08-25T15:14:00Z",
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1800
@@ -903,10 +903,10 @@
             "archived": false,
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-25T03:14:11Z",
+            "last_commit": "2026-08-26T03:16:02Z",
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -918,7 +918,7 @@
             "archived": false,
             "id": 1028523824,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:04:15Z",
+            "last_commit": "2026-08-25T18:34:59Z",
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 81
@@ -996,7 +996,7 @@
             "last_commit": "2026-08-23T23:21:59Z",
             "owner": "edisdev",
             "repo": "tauri-plugin-device-info",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -1016,21 +1016,6 @@
         },
         {
           "node_type": "item",
-          "title": "tauri-plugin-nosleep",
-          "description": "Block the power save functionality in the OS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 489465369,
-            "language": "Rust",
-            "last_commit": "2024-03-17T17:48:11Z",
-            "owner": "pevers",
-            "repo": "tauri-plugin-nosleep",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
           "title": "tauri-plugin-thermal-printer",
           "description": "Add support to handle thermal printers.",
           "children": [],
@@ -1041,6 +1026,21 @@
             "last_commit": "2026-07-29T15:20:59Z",
             "owner": "luis3132",
             "repo": "tauri-plugin-thermal-printer",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tauri-plugin-nosleep",
+          "description": "Block the power save functionality in the OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489465369,
+            "language": "Rust",
+            "last_commit": "2024-03-17T17:48:11Z",
+            "owner": "pevers",
+            "repo": "tauri-plugin-nosleep",
             "stars": 23
           }
         },
@@ -1212,7 +1212,7 @@
             "last_commit": "2026-07-26T01:30:00Z",
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 782
+            "stars": 783
           }
         },
         {
@@ -1247,6 +1247,21 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-mcp-server",
+          "description": "MCP server and plugin for rapid development and debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1104967813,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:40:36Z",
+            "owner": "hypothesi",
+            "repo": "mcp-server-tauri",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
           "title": "vite-plugin-tauri",
           "description": "Integrate Tauri in a Vite project to build cross-platform apps.",
           "children": [],
@@ -1258,21 +1273,6 @@
             "owner": "amrbashir",
             "repo": "vite-plugin-tauri",
             "stars": 294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-mcp-server",
-          "description": "MCP server and plugin for rapid development and debugging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1104967813,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T01:40:36Z",
-            "owner": "hypothesi",
-            "repo": "mcp-server-tauri",
-            "stars": 293
           }
         },
         {
@@ -1385,7 +1385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:24.155Z",
+    "last_updated": "2026-08-26T03:17:41.402Z",
     "original_repository": "tauri-apps/awesome-tauri",
     "original_repository_id": 450871432,
     "original_repository_sha": "a68d51963d5aea5e1cf2149cce4ac752166e2587",
