@@ -15,7 +15,7 @@
             "last_commit": "2026-07-05T12:05:43Z",
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 865
+            "stars": 864
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 485947529,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T15:38:27Z",
+            "last_commit": "2026-08-26T16:52:56Z",
             "owner": "Uninen",
             "repo": "tauri-vue-template",
             "stars": 489
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 420092493,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T02:05:09Z",
+            "last_commit": "2026-08-27T05:15:51Z",
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
             "stars": 301
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 1126651275,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T00:01:55Z",
+            "last_commit": "2026-08-27T00:03:20Z",
             "owner": "kvnxiao",
             "repo": "tauri-tanstack-start-react-template",
             "stars": 53
@@ -365,6 +365,21 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-leptos-ssr",
+          "description": "Leptos SSR Template for Smaller bundles, faster startups, better UX done right for desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1003811189,
+            "language": "Rust",
+            "last_commit": "2026-05-29T08:00:47Z",
+            "owner": "codeitlikemiley",
+            "repo": "tauri-leptos-ssr",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
           "title": "tauronic",
           "description": "Tauri template for hybrid Apps using Ionic components in React flavour.",
           "children": [],
@@ -376,21 +391,6 @@
             "owner": "rgilsimoes",
             "repo": "Tauronic",
             "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-leptos-ssr",
-          "description": "Leptos SSR Template for Smaller bundles, faster startups, better UX done right for desktop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1003811189,
-            "language": "Rust",
-            "last_commit": "2026-05-29T08:00:47Z",
-            "owner": "codeitlikemiley",
-            "repo": "tauri-leptos-ssr",
-            "stars": 21
           }
         }
       ],
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 450890277,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:14:00Z",
+            "last_commit": "2026-08-27T12:04:54Z",
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1800
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-19T13:08:01Z",
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
-            "stars": 412
+            "stars": 416
           }
         },
         {
@@ -603,7 +603,7 @@
             "archived": false,
             "id": 475950142,
             "language": "Rust",
-            "last_commit": "2026-08-21T19:43:14Z",
+            "last_commit": "2026-08-26T23:53:51Z",
             "owner": "JonasKruckenberg",
             "repo": "tauri-plugin-graphql",
             "stars": 164
@@ -903,7 +903,7 @@
             "archived": false,
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-26T03:16:02Z",
+            "last_commit": "2026-08-27T11:45:59Z",
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 89
@@ -918,7 +918,7 @@
             "archived": false,
             "id": 1028523824,
             "language": "Rust",
-            "last_commit": "2026-08-25T18:34:59Z",
+            "last_commit": "2026-08-26T09:23:09Z",
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 81
@@ -1212,7 +1212,7 @@
             "last_commit": "2026-07-26T01:30:00Z",
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 783
+            "stars": 784
           }
         },
         {
@@ -1224,10 +1224,10 @@
             "archived": false,
             "id": 756580573,
             "language": "Rust",
-            "last_commit": "2026-08-24T01:51:23Z",
+            "last_commit": "2026-08-26T19:49:50Z",
             "owner": "ahkohd",
             "repo": "tauri-macos-menubar-app-example",
-            "stars": 388
+            "stars": 389
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "last_commit": "2026-08-13T16:36:37Z",
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 173
+            "stars": 172
           }
         },
         {
@@ -1385,9 +1385,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:17:41.402Z",
-    "original_repository": "tauri-apps/awesome-tauri",
-    "original_repository_id": 450871432,
+    "last_updated": "2026-08-27T12:05:57.568Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 450871432,
+      "language": null,
+      "last_commit": "2026-08-24T10:14:22Z",
+      "owner": "tauri-apps",
+      "repo": "awesome-tauri",
+      "stars": 8039
+    },
     "original_repository_sha": "a68d51963d5aea5e1cf2149cce4ac752166e2587",
     "enhanced_repository": "enhansome/enhansome-tauri",
     "enhanced_repository_description": null,
