@@ -105,7 +105,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [tauri-plugin-dragout](https://github.com/alexqqqqqq777/tauri-plugin-dragout) ⭐ 94 | 🐛 0 | 🌐 Rust | 📅 2025-08-05 ![v2] - Native macOS drag-out (file promise) support.
 * [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) ⭐ 94 | 🐛 1 | 🌐 Rust | 📅 2025-02-11 ![v2] - MQTT client support.
 * [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) ⭐ 92 | 🐛 1 | 🌐 Rust | 📅 2024-11-21 ![v2] - View and share files on mobile.
-* [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) ⭐ 89 | 🐛 21 | 🌐 Rust | 📅 2026-08-27 ![v2] - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
+* [tauri-plugin-velesdb](https://github.com/cyberlife-coder/VelesDB) ⭐ 89 | 🐛 23 | 🌐 Rust | 📅 2026-08-27 ![v2] - Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.
 * [tauri-plugin-iap](https://github.com/Choochmeque/tauri-plugin-iap) ⭐ 81 | 🐛 9 | 🌐 Rust | 📅 2026-08-26 ![v2] - Plugin that enables full In-App Purchases flow for Android, macOS, iOS and Windows.
 * [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) ⭐ 56 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 ![v2] - Auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access.
 * [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) ⭐ 56 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 ![v2] - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
