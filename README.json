@@ -15,8 +15,9 @@
             "last_commit": "2026-07-05T12:05:43Z",
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 864
-          }
+            "stars": 863
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-22T13:35:54Z",
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
-            "stars": 694
-          }
+            "stars": 693
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 485947529,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:52:56Z",
+            "last_commit": "2026-08-27T22:29:57Z",
             "owner": "Uninen",
             "repo": "tauri-vue-template",
-            "stars": 489
-          }
+            "stars": 488
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-24T22:49:49Z",
             "owner": "elibroftw",
             "repo": "modern-desktop-app-template",
-            "stars": 369
-          }
+            "stars": 368
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 420092493,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:15:51Z",
+            "last_commit": "2026-08-27T14:10:51Z",
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
-            "stars": 301
-          }
+            "stars": 300
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-12T13:18:42Z",
             "owner": "dannysmith",
             "repo": "tauri-template",
-            "stars": 301
-          }
+            "stars": 300
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-05T12:33:36Z",
             "owner": "MrLightful",
             "repo": "create-tauri-react",
-            "stars": 234
-          }
+            "stars": 233
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2026-01-30T19:07:07Z",
             "owner": "belnadris",
             "repo": "angular-tauri",
-            "stars": 217
-          }
+            "stars": 216
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2024-01-04T20:01:28Z",
             "owner": "marc2332",
             "repo": "tauri-deno-starter",
-            "stars": 208
-          }
+            "stars": 207
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "kasper9n",
             "repo": "tauri-sveltekit-template",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -165,8 +175,9 @@
             "last_commit": "2024-06-22T06:31:40Z",
             "owner": "HuakunShen",
             "repo": "tauri-nuxt-template",
-            "stars": 140
-          }
+            "stars": 139
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -180,8 +191,9 @@
             "last_commit": "2023-10-23T05:30:03Z",
             "owner": "rome-user",
             "repo": "tauri-clojurescript-template",
-            "stars": 120
-          }
+            "stars": 119
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -195,8 +207,9 @@
             "last_commit": "2022-10-29T13:02:59Z",
             "owner": "JonasKruckenberg",
             "repo": "tauri-rescript-template",
-            "stars": 120
-          }
+            "stars": 119
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -210,8 +223,9 @@
             "last_commit": "2024-06-25T12:31:13Z",
             "owner": "deid84",
             "repo": "tauri-sveltekit-admin-template",
-            "stars": 116
-          }
+            "stars": 115
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -225,8 +239,9 @@
             "last_commit": "2025-10-18T15:41:46Z",
             "owner": "sollambert",
             "repo": "rust-full-stack-with-auth-template",
-            "stars": 113
-          }
+            "stars": 112
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -240,8 +255,9 @@
             "last_commit": "2023-02-02T19:44:41Z",
             "owner": "JonasKruckenberg",
             "repo": "tauri-sycamore-template",
-            "stars": 108
-          }
+            "stars": 107
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -255,8 +271,9 @@
             "last_commit": "2026-03-19T05:03:50Z",
             "owner": "skymen",
             "repo": "tauri-vue-template",
-            "stars": 105
-          }
+            "stars": 104
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "fridzema",
             "repo": "oxide-dock",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -285,8 +303,9 @@
             "last_commit": "2024-11-12T13:46:25Z",
             "owner": "HuakunShen",
             "repo": "tauri-astro-template",
-            "stars": 93
-          }
+            "stars": 92
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -300,8 +319,9 @@
             "last_commit": "2023-09-26T21:19:47Z",
             "owner": "charlesxsh",
             "repo": "tauri-angular-boilerplate",
-            "stars": 87
-          }
+            "stars": 86
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -315,8 +335,9 @@
             "last_commit": "2022-10-07T22:48:06Z",
             "owner": "henrhie",
             "repo": "tauri-react-parcel-template",
-            "stars": 86
-          }
+            "stars": 85
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -330,8 +351,9 @@
             "last_commit": "2026-05-18T02:05:05Z",
             "owner": "RoseBlume",
             "repo": "Bishop-Tauri-Template",
-            "stars": 84
-          }
+            "stars": 83
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "kvnxiao",
             "repo": "tauri-tanstack-start-react-template",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "fudanglp",
             "repo": "tauri-fastapi-full-stack-template",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "codeitlikemiley",
             "repo": "tauri-leptos-ssr",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "rgilsimoes",
             "repo": "Tauronic",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         }
       ],
       "title": "Templates"
@@ -408,11 +434,12 @@
             "archived": false,
             "id": 450890277,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:41:26Z",
+            "last_commit": "2026-08-27T19:06:15Z",
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1800
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "tauri-apps",
             "repo": "window-vibrancy",
             "stars": 1033
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "MatsDK",
             "repo": "TauRPC",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -471,8 +501,9 @@
             "last_commit": "2024-10-17T01:59:31Z",
             "owner": "CrossCopy",
             "repo": "tauri-plugin-clipboard",
-            "stars": 315
-          }
+            "stars": 314
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -486,8 +517,9 @@
             "last_commit": "2024-02-07T17:05:00Z",
             "owner": "tauri-apps",
             "repo": "window-shadows",
-            "stars": 244
-          }
+            "stars": 243
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -501,8 +533,9 @@
             "last_commit": "2024-10-26T14:21:52Z",
             "owner": "c2r0b",
             "repo": "tauri-plugin-context-menu",
-            "stars": 240
-          }
+            "stars": 239
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -516,8 +549,9 @@
             "last_commit": "2026-08-04T16:26:35Z",
             "owner": "timfish",
             "repo": "sentry-tauri",
-            "stars": 234
-          }
+            "stars": 233
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -531,8 +565,9 @@
             "last_commit": "2026-06-24T02:33:52Z",
             "owner": "ferreira-tb",
             "repo": "tauri-plugin-prevent-default",
-            "stars": 231
-          }
+            "stars": 230
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -546,8 +581,9 @@
             "last_commit": "2026-07-06T09:13:30Z",
             "owner": "MnlPhlp",
             "repo": "tauri-plugin-blec",
-            "stars": 227
-          }
+            "stars": 226
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -561,8 +597,9 @@
             "last_commit": "2026-06-27T01:18:43Z",
             "owner": "ahkohd",
             "repo": "tauri-awesome-rpc",
-            "stars": 188
-          }
+            "stars": 187
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "s00d",
             "repo": "tauri-plugin-serialplugin",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -591,8 +629,9 @@
             "last_commit": "2025-12-14T12:10:06Z",
             "owner": "ayangweb",
             "repo": "tauri-plugin-macos-permissions",
-            "stars": 173
-          }
+            "stars": 172
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -606,8 +645,9 @@
             "last_commit": "2026-08-26T23:53:51Z",
             "owner": "JonasKruckenberg",
             "repo": "tauri-plugin-graphql",
-            "stars": 164
-          }
+            "stars": 163
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "marcomq",
             "repo": "tauri-plugin-python",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -636,8 +677,9 @@
             "last_commit": "2026-08-11T01:50:12Z",
             "owner": "aptabase",
             "repo": "tauri-plugin-aptabase",
-            "stars": 153
-          }
+            "stars": 152
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -651,8 +693,9 @@
             "last_commit": "2026-05-16T10:24:09Z",
             "owner": "freethinkel",
             "repo": "tauri-nspopover-plugin",
-            "stars": 147
-          }
+            "stars": 146
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -666,8 +709,9 @@
             "last_commit": "2025-04-03T14:26:28Z",
             "owner": "HuakunShen",
             "repo": "tauri-plugin-system-info",
-            "stars": 147
-          }
+            "stars": 146
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -681,8 +725,9 @@
             "last_commit": "2026-07-20T23:13:15Z",
             "owner": "Charlie-XIAO",
             "repo": "tauri-plugin-desktop-underlay",
-            "stars": 143
-          }
+            "stars": 142
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -696,8 +741,9 @@
             "last_commit": "2025-05-01T03:08:06Z",
             "owner": "ayangweb",
             "repo": "tauri-plugin-screenshots",
-            "stars": 143
-          }
+            "stars": 142
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "ferreira-tb",
             "repo": "tauri-store",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "ferreira-tb",
             "repo": "tauri-store",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -741,8 +789,9 @@
             "last_commit": "2025-03-26T05:58:40Z",
             "owner": "HuakunShen",
             "repo": "tauri-plugin-network",
-            "stars": 128
-          }
+            "stars": 127
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -756,8 +805,9 @@
             "last_commit": "2026-08-09T17:00:55Z",
             "owner": "Taiizor",
             "repo": "tauri-plugin-cache",
-            "stars": 123
-          }
+            "stars": 122
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -771,8 +821,9 @@
             "last_commit": "2025-10-23T03:47:24Z",
             "owner": "ayangweb",
             "repo": "tauri-plugin-fs-pro",
-            "stars": 110
-          }
+            "stars": 109
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -786,8 +837,9 @@
             "last_commit": "2024-08-29T19:11:45Z",
             "owner": "buildyourwebapp",
             "repo": "tauri-plugin-sharesheet",
-            "stars": 107
-          }
+            "stars": 106
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -801,8 +853,9 @@
             "last_commit": "2026-06-28T09:13:26Z",
             "owner": "deid84",
             "repo": "tauri-plugin-serialport",
-            "stars": 104
-          }
+            "stars": 103
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -816,8 +869,9 @@
             "last_commit": "2025-07-21T03:26:06Z",
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-tcp",
-            "stars": 102
-          }
+            "stars": 101
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -831,8 +885,9 @@
             "last_commit": "2025-02-18T03:26:09Z",
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-udp",
-            "stars": 102
-          }
+            "stars": 101
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -847,7 +902,8 @@
             "owner": "smokingplaya",
             "repo": "tauri-plugin-drpc",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -861,8 +917,9 @@
             "last_commit": "2025-08-05T20:21:28Z",
             "owner": "alexqqqqqq777",
             "repo": "tauri-plugin-dragout",
-            "stars": 94
-          }
+            "stars": 93
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -876,8 +933,9 @@
             "last_commit": "2025-02-11T10:24:40Z",
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-mqtt",
-            "stars": 94
-          }
+            "stars": 93
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -891,8 +949,9 @@
             "last_commit": "2024-11-21T16:50:20Z",
             "owner": "ecmel",
             "repo": "tauri-plugin-view",
-            "stars": 92
-          }
+            "stars": 91
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -903,11 +962,12 @@
             "archived": false,
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:18:59Z",
+            "last_commit": "2026-08-28T11:35:50Z",
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
-            "stars": 89
-          }
+            "stars": 90
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -922,7 +982,8 @@
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -937,7 +998,8 @@
             "owner": "inKibra",
             "repo": "tauri-plugins",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1014,8 @@
             "owner": "inKibra",
             "repo": "tauri-plugins",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1030,8 @@
             "owner": "inKibra",
             "repo": "tauri-plugins",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1046,8 @@
             "owner": "aiueo13",
             "repo": "tauri-plugin-android-fs",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1062,8 @@
             "owner": "edisdev",
             "repo": "tauri-plugin-device-info",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1012,7 +1078,8 @@
             "owner": "DraviaVemal",
             "repo": "tauri-remote-ui",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1027,7 +1094,8 @@
             "owner": "luis3132",
             "repo": "tauri-plugin-thermal-printer",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1042,7 +1110,8 @@
             "owner": "pevers",
             "repo": "tauri-plugin-nosleep",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1057,7 +1126,8 @@
             "owner": "HuakunShen",
             "repo": "tauri-plugin-js",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1072,7 +1142,8 @@
             "owner": "s00d",
             "repo": "tauri-plugin-widgets",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1087,7 +1158,8 @@
             "owner": "HuakunShen",
             "repo": "tauri-plugin-libsql",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1102,7 +1174,8 @@
             "owner": "Kosadchiy",
             "repo": "tauri-plugin-esc-pos",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1190,8 @@
             "owner": "IT-ess",
             "repo": "tauri-plugin-mobile-sharetarget",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1206,8 @@
             "owner": "fltsci",
             "repo": "tauri-plugin-tracing",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1222,8 @@
             "owner": "NeoHuncho",
             "repo": "tauri-plugin-android-battery-optimization",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1238,8 @@
             "owner": "Gbyte-Group",
             "repo": "tauri-plugin-ios-photos",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1254,8 @@
             "owner": "Gbyte-Group",
             "repo": "tauri-plugin-in-app-review",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         }
       ],
       "title": "Plugins"
@@ -1197,8 +1275,9 @@
             "last_commit": "2023-03-26T14:45:16Z",
             "owner": "astrodon",
             "repo": "astrodon",
-            "stars": 1024
-          }
+            "stars": 1023
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1212,8 +1291,9 @@
             "last_commit": "2026-07-26T01:30:00Z",
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 784
-          }
+            "stars": 785
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1224,11 +1304,12 @@
             "archived": false,
             "id": 756580573,
             "language": "Rust",
-            "last_commit": "2026-08-26T19:49:50Z",
+            "last_commit": "2026-08-28T07:16:05Z",
             "owner": "ahkohd",
             "repo": "tauri-macos-menubar-app-example",
-            "stars": 389
-          }
+            "stars": 388
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1324,8 @@
             "owner": "ahkohd",
             "repo": "tauri-macos-spotlight-example",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1340,8 @@
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1272,8 +1355,9 @@
             "last_commit": "2026-06-11T03:08:07Z",
             "owner": "amrbashir",
             "repo": "vite-plugin-tauri",
-            "stars": 294
-          }
+            "stars": 293
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1287,8 +1371,9 @@
             "last_commit": "2026-04-10T21:17:08Z",
             "owner": "persiliao",
             "repo": "axios-tauri-api-adapter",
-            "stars": 192
-          }
+            "stars": 191
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1302,8 +1387,9 @@
             "last_commit": "2026-08-13T16:36:37Z",
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 172
-          }
+            "stars": 171
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1317,8 +1403,9 @@
             "last_commit": "2026-08-21T11:31:22Z",
             "owner": "ku9nov",
             "repo": "faynoSync",
-            "stars": 155
-          }
+            "stars": 154
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1332,8 +1419,9 @@
             "last_commit": "2026-07-25T04:16:27Z",
             "owner": "kasper9n",
             "repo": "svelte-tauri-filedrop",
-            "stars": 136
-          }
+            "stars": 135
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1347,8 +1435,9 @@
             "last_commit": "2025-02-11T10:29:30Z",
             "owner": "ChristianPavilonis",
             "repo": "tauri-htmx-extension",
-            "stars": 123
-          }
+            "stars": 122
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1362,8 +1451,9 @@
             "last_commit": "2026-07-21T06:52:08Z",
             "owner": "typed-sigterm",
             "repo": "deno-in-tauri",
-            "stars": 101
-          }
+            "stars": 100
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         },
         {
           "node_type": "item",
@@ -1378,14 +1468,15 @@
             "owner": "mackenly",
             "repo": "tauri-update-cloudflare",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
         }
       ],
       "title": "Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:46:03.599Z",
+    "last_updated": "2026-08-28T14:19:57.640Z",
     "original_repository_info": {
       "archived": false,
       "id": 450871432,
@@ -1393,7 +1484,7 @@
       "last_commit": "2026-08-24T10:14:22Z",
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8039
+      "stars": 8041
     },
     "original_repository_sha": "a68d51963d5aea5e1cf2149cce4ac752166e2587",
     "enhanced_repository": "enhansome/enhansome-tauri",
