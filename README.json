@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build tiny desktop apps with Tauri, Nuxt 4 and NuxtUI 4",
+            "homepage": null,
             "id": 815715269,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-05T12:05:43Z",
+            "open_issues": 0,
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 863
+            "stars": 863,
+            "topics": [
+              "nuxt",
+              "nuxt4",
+              "nuxtui",
+              "nuxtui-v4",
+              "tailwindcss",
+              "tauri",
+              "vite",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -26,12 +40,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tauri 2.0 + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured",
+            "homepage": null,
             "id": 513734670,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:35:54Z",
+            "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
-            "stars": 693
+            "stars": 693,
+            "topics": [
+              "biome",
+              "biomejs",
+              "nextjs",
+              "react",
+              "rust",
+              "tailwindcss",
+              "tauri",
+              "tauri-app",
+              "template",
+              "typescript",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -42,12 +73,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production-ready Tauri + Vue template with TypeScript, Tailwind 4, testing, and CI/CD",
+            "homepage": null,
             "id": 485947529,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-27T22:29:57Z",
+            "open_issues": 12,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
-            "stars": 488
+            "stars": 488,
+            "topics": [
+              "rust",
+              "tailwindcss",
+              "tauri",
+              "typescript",
+              "vite",
+              "vitest",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -58,12 +102,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri v2 & React v19 boilerplate for a modern desktop application. Not a project nor a substitute for my Tauri video tutorials.",
+            "homepage": "https://www.youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L",
             "id": 473847178,
             "language": "TypeScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-24T22:49:49Z",
+            "open_issues": 1,
             "owner": "elibroftw",
             "repo": "modern-desktop-app-template",
-            "stars": 368
+            "stars": 369,
+            "topics": [
+              "desktop-app",
+              "gui",
+              "javascript",
+              "mantine",
+              "react",
+              "reactjs",
+              "rust",
+              "tauri",
+              "template",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -74,12 +134,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri + Solid + Tailwind CSS + TypeScript + Vite + ESLint + Prettier Starter template",
+            "homepage": null,
             "id": 420092493,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:10:51Z",
+            "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
-            "stars": 300
+            "stars": 300,
+            "topics": [
+              "eslint",
+              "prettier",
+              "rust",
+              "solidjs",
+              "starter-template",
+              "tailwindcss",
+              "tauri",
+              "tauri-app",
+              "tauri-starter",
+              "template",
+              "typescript",
+              "vitejs"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -90,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A production-ready template for building modern desktop applications with Tauri v2, React 19, and TypeScript. This template provides a solid foundation with best practices, comprehensive documentation, and quality tooling built-in.",
+            "homepage": null,
             "id": 1029852994,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T13:18:42Z",
+            "open_issues": 7,
             "owner": "dannysmith",
             "repo": "tauri-template",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -106,12 +189,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Well-architected Tauri app template with Vite, React, and Tailwind CSS.",
+            "homepage": null,
             "id": 858157822,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T12:33:36Z",
+            "open_issues": 2,
             "owner": "MrLightful",
             "repo": "create-tauri-react",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "desktop",
+              "react",
+              "shadcn-ui",
+              "tailwindcss",
+              "tauri",
+              "ui",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -122,12 +218,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-fast bootstrapping with Angular and Tauri :speedboat:",
+            "homepage": "https://belnadris.github.io/angular-tauri/",
             "id": 469373159,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-30T19:07:07Z",
+            "open_issues": 1,
             "owner": "belnadris",
             "repo": "angular-tauri",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "angular",
+              "angular-routing",
+              "desktop-app",
+              "hot-reload",
+              "native-libraries",
+              "rust",
+              "sass",
+              "tauri",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -138,12 +250,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter template for Tauri, bundling the frontend made with React using Deno with esbuild.",
+            "homepage": null,
             "id": 494582269,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-01-04T20:01:28Z",
+            "open_issues": 0,
             "owner": "marc2332",
             "repo": "tauri-deno-starter",
-            "stars": 207
+            "stars": 207,
+            "topics": [
+              "esbuild",
+              "frontend",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -154,12 +275,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri + SvelteKit template",
+            "homepage": null,
             "id": 421298567,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-25T07:02:09Z",
+            "open_issues": 0,
             "owner": "kasper9n",
             "repo": "tauri-sveltekit-template",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "actions",
+              "svelte",
+              "sveltekit",
+              "tauri",
+              "template",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -170,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nuxt integratioon with Tauri template",
+            "homepage": null,
             "id": 624318985,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-06-22T06:31:40Z",
+            "open_issues": 0,
             "owner": "HuakunShen",
             "repo": "tauri-nuxt-template",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -186,12 +324,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri + ClojureScript template",
+            "homepage": null,
             "id": 613169881,
             "language": "Clojure",
+            "license": "Unlicense",
             "last_commit": "2023-10-23T05:30:03Z",
+            "open_issues": 0,
             "owner": "rome-user",
             "repo": "tauri-clojurescript-template",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "clojurescript",
+              "reagent",
+              "shadow-cljs",
+              "tauri",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -202,12 +351,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri, ReScript, and React template",
+            "homepage": null,
             "id": 559172997,
             "language": "ReScript",
+            "license": "MIT",
             "last_commit": "2022-10-29T13:02:59Z",
+            "open_issues": 0,
             "owner": "JonasKruckenberg",
             "repo": "tauri-rescript-template",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "reactjs",
+              "rescript",
+              "rescript-react",
+              "tauri",
+              "template",
+              "vitejs"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -218,12 +379,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a starter template for building Tauri apps using SvelteKit and the Tailwind CSS framework. The template includes a development server, build scripts, and other helpful tools to get started.",
+            "homepage": null,
             "id": 662593792,
             "language": "Svelte",
+            "license": null,
             "last_commit": "2024-06-25T12:31:13Z",
+            "open_issues": 0,
             "owner": "deid84",
             "repo": "tauri-sveltekit-admin-template",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "boilerplate",
+              "project-starter-kit",
+              "project-template",
+              "sveltekit",
+              "tailwindcss",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -234,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template with a robust authentication solution for fullstack development entirely in Rust",
+            "homepage": null,
             "id": 769662997,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-10-18T15:41:46Z",
+            "open_issues": 0,
             "owner": "sollambert",
             "repo": "rust-full-stack-with-auth-template",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -250,12 +428,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri and Sycamore template",
+            "homepage": null,
             "id": 560136424,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-02-02T19:44:41Z",
+            "open_issues": 0,
             "owner": "JonasKruckenberg",
             "repo": "tauri-sycamore-template",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "sycamore",
+              "tauri",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -266,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tauri template that comes with a few very useful features pre configured",
+            "homepage": null,
             "id": 674811836,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-19T05:03:50Z",
+            "open_issues": 0,
             "owner": "skymen",
             "repo": "tauri-vue-template",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -282,12 +474,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust + Vue 3 + Tauri v2 desktop starter - CI/CD, testing, and cross-platform releases out of the box",
+            "homepage": "https://github.com/fridzema/oxide-dock/releases",
             "id": 1157176879,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T13:03:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:14:06Z",
+            "open_issues": 1,
             "owner": "fridzema",
             "repo": "oxide-dock",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "boilerplate",
+              "bun",
+              "cross-platform",
+              "desktop",
+              "electron-alternative",
+              "pinia",
+              "rust",
+              "starter-kit",
+              "starter-template",
+              "tailwindcss",
+              "tauri",
+              "tauri-v2",
+              "typescript",
+              "vite",
+              "vue",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -298,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 799211829,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-11-12T13:46:25Z",
+            "open_issues": 0,
             "owner": "HuakunShen",
             "repo": "tauri-astro-template",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -314,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Angular + Tauri",
+            "homepage": null,
             "id": 694938781,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-09-26T21:19:47Z",
+            "open_issues": 0,
             "owner": "charlesxsh",
             "repo": "tauri-angular-boilerplate",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -330,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri starter pack using parcel as bundler",
+            "homepage": null,
             "id": 547565292,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-10-07T22:48:06Z",
+            "open_issues": 0,
             "owner": "henrhie",
             "repo": "tauri-react-parcel-template",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -346,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri-Bishop-Template",
+            "homepage": null,
             "id": 425010386,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-05-18T02:05:05Z",
+            "open_issues": 1,
             "owner": "RoseBlume",
             "repo": "Bishop-Tauri-Template",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -362,12 +596,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tauri 2.0 + TanStack Start React template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured",
+            "homepage": null,
             "id": 1126651275,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T00:03:20Z",
+            "open_issues": 3,
             "owner": "kvnxiao",
             "repo": "tauri-tanstack-start-react-template",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "biomejs",
+              "react",
+              "rust",
+              "tailwindcss",
+              "tanstack-start",
+              "tauri",
+              "tauri-app",
+              "template",
+              "typescript",
+              "vite",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -378,12 +629,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A production-ready template for building cross-platform desktop applications with a modern web frontend, Python FastAPI backend, and Rust integration layer.",
+            "homepage": null,
             "id": 1147126783,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-08T15:10:23Z",
+            "open_issues": 1,
             "owner": "fudanglp",
             "repo": "tauri-fastapi-full-stack-template",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "boilerplate",
+              "cross-platform",
+              "desktop-app",
+              "fastapi",
+              "full-stack",
+              "openapi",
+              "python",
+              "react",
+              "rust",
+              "scaffold",
+              "shadcn-ui",
+              "sqlite",
+              "sqlmodel",
+              "starter",
+              "tailwindcss",
+              "tanstack-router",
+              "tauri",
+              "template",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -394,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri v2 with Leptos SSR and Tailwind v4 Starter Template",
+            "homepage": null,
             "id": 1003811189,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-29T08:00:47Z",
+            "open_issues": 0,
             "owner": "codeitlikemiley",
             "repo": "tauri-leptos-ssr",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -410,12 +692,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauronic - A Starter Template for building Mobile Apps with Tauri and Ionic using React.",
+            "homepage": null,
             "id": 814377096,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-02T20:39:59Z",
+            "open_issues": 0,
             "owner": "rgilsimoes",
             "repo": "Tauronic",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "ionic-framework",
+              "react",
+              "tauri",
+              "tauri-app",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         }
@@ -432,12 +725,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All of the official Tauri plugins in one place!",
+            "homepage": "https://tauri.app",
             "id": 450890277,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:06:15Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T14:56:40Z",
+            "open_issues": 488,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1800
+            "stars": 1801,
+            "topics": [
+              "hacktoberfest",
+              "tauri",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -448,12 +750,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your windows vibrant.",
+            "homepage": null,
             "id": 433520643,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T19:32:28Z",
+            "open_issues": 18,
             "owner": "tauri-apps",
             "repo": "window-vibrancy",
-            "stars": 1033
+            "stars": 1033,
+            "topics": [
+              "acrylic",
+              "blur",
+              "macos",
+              "plugin",
+              "tao",
+              "tauri",
+              "tauri-plugin",
+              "vibrancy",
+              "windows",
+              "winit"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -464,12 +782,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create panels for your Tauri app",
+            "homepage": "https://docs.aremu.dev/tauri-nspanel/",
             "id": 616317817,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T13:08:01Z",
+            "open_issues": 12,
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
-            "stars": 416
+            "stars": 416,
+            "topics": [
+              "macos",
+              "objcective-c",
+              "rust",
+              "tauri",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -480,12 +809,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typesafe IPC layer for Tauri applications",
+            "homepage": "https://docs.rs/taurpc/",
             "id": 646272610,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-03T19:19:35Z",
+            "open_issues": 2,
             "owner": "MatsDK",
             "repo": "TauRPC",
-            "stars": 332
+            "stars": 332,
+            "topics": [
+              "rust",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -496,12 +833,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tauri clipboard plugin with text, files, html, RTF, and image support. Clipboard content update monitoring is also supported. ",
+            "homepage": "https://crosscopy.github.io/tauri-plugin-clipboard/",
             "id": 590777612,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-10-17T01:59:31Z",
+            "open_issues": 8,
             "owner": "CrossCopy",
             "repo": "tauri-plugin-clipboard",
-            "stars": 314
+            "stars": 314,
+            "topics": [
+              "clipboard",
+              "monitor",
+              "plugin",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -512,12 +859,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Add native shadows to your windows.",
+            "homepage": null,
             "id": 443093605,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-07T17:05:00Z",
+            "open_issues": 2,
             "owner": "tauri-apps",
             "repo": "window-shadows",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "macos",
+              "plugin",
+              "shadows",
+              "tao",
+              "tauri",
+              "tauri-plugin",
+              "windows",
+              "winit"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -528,12 +889,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native Context Menu in Tauri v1",
+            "homepage": "https://crates.io/crates/tauri-plugin-context-menu",
             "id": 672576933,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-10-26T14:21:52Z",
+            "open_issues": 0,
             "owner": "c2r0b",
             "repo": "tauri-plugin-context-menu",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "context-menu",
+              "native",
+              "plugin",
+              "rust",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -544,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tauri plugin for Sentry",
+            "homepage": null,
             "id": 461339819,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-04T16:26:35Z",
+            "open_issues": 5,
             "owner": "timfish",
             "repo": "sentry-tauri",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -560,12 +937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Disable default browser shortcuts",
+            "homepage": "https://docs.rs/tauri-plugin-prevent-default",
             "id": 822375749,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-24T02:33:52Z",
+            "open_issues": 3,
             "owner": "ferreira-tb",
             "repo": "tauri-plugin-prevent-default",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -576,12 +958,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BLE Client plugin for tauri",
+            "homepage": null,
             "id": 875265669,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-06T09:13:30Z",
+            "open_issues": 7,
             "owner": "MnlPhlp",
             "repo": "tauri-plugin-blec",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -592,12 +979,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom invoke system for Tauri that leverages WebSocket",
+            "homepage": null,
             "id": 494189866,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-27T01:18:43Z",
+            "open_issues": 0,
             "owner": "ahkohd",
             "repo": "tauri-awesome-rpc",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "gui",
+              "rust",
+              "tauri",
+              "wry"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -608,12 +1005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://crates.io/crates/tauri-plugin-serialplugin",
             "id": 752736476,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T05:45:42Z",
+            "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-serialplugin",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -624,12 +1026,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for checking and requesting macos system permissions.",
+            "homepage": "https://crates.io/crates/tauri-plugin-macos-permissions",
             "id": 890137221,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-12-14T12:10:06Z",
+            "open_issues": 3,
             "owner": "ayangweb",
             "repo": "tauri-plugin-macos-permissions",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "accessibility",
+              "camera",
+              "full-disk-access",
+              "macos-permission",
+              "macos-permissions",
+              "microphone",
+              "rust",
+              "screen-recording",
+              "tauri",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -640,12 +1058,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Type-safe IPC for Tauri using GraphQL",
+            "homepage": null,
             "id": 475950142,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T23:53:51Z",
+            "open_issues": 49,
             "owner": "JonasKruckenberg",
             "repo": "tauri-plugin-graphql",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "graphql",
+              "javascript",
+              "rust",
+              "tauri",
+              "tauri-plugin",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -656,12 +1086,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri plugin to run python code in the backend instead of rust",
+            "homepage": null,
             "id": 903013866,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-20T10:32:17Z",
+            "open_issues": 3,
             "owner": "marcomq",
             "repo": "tauri-plugin-python",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "python",
+              "rust",
+              "tauri",
+              "tauri-plugin",
+              "tauri2",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -672,12 +1114,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri Plugin for Aptabase: Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps",
+            "homepage": "https://aptabase.com",
             "id": 617996289,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-11T01:50:12Z",
+            "open_issues": 0,
             "owner": "aptabase",
             "repo": "tauri-plugin-aptabase",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "analytics",
+              "aptabase",
+              "privacy",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -688,12 +1140,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NSPopover plugin for tauri",
+            "homepage": null,
             "id": 747116012,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-16T10:24:09Z",
+            "open_issues": 0,
             "owner": "freethinkel",
             "repo": "tauri-nspopover-plugin",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "cargo",
+              "macos",
+              "menu",
+              "menuapp",
+              "nspopover",
+              "popover",
+              "rust",
+              "statusbar",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -704,12 +1171,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri plugin for obtaining system info (network, memory, cpu, process)",
+            "homepage": null,
             "id": 679174296,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-04-03T14:26:28Z",
+            "open_issues": 0,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-system-info",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "rust",
+              "tauri",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -720,12 +1196,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri plugin for making a window a desktop underlay, attached to the desktop, above the wallpaper, and below desktop icons.",
+            "homepage": null,
             "id": 850766331,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-20T23:13:15Z",
+            "open_issues": 4,
             "owner": "Charlie-XIAO",
             "repo": "tauri-plugin-desktop-underlay",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "tauri",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -736,12 +1220,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get screenshots of windows and monitors.",
+            "homepage": "https://crates.io/crates/tauri-plugin-screenshots",
             "id": 940048857,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-05-01T03:08:06Z",
+            "open_issues": 2,
             "owner": "ayangweb",
             "repo": "tauri-plugin-screenshots",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "rust",
+              "screenshots",
+              "tauri",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -752,12 +1246,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent stores for Tauri",
+            "homepage": "https://tb.dev.br/tauri-store/",
             "id": 824352186,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-19T13:43:48Z",
+            "open_issues": 10,
             "owner": "ferreira-tb",
             "repo": "tauri-store",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "nuxt",
+              "pinia",
+              "react",
+              "svelte",
+              "tauri",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -768,12 +1274,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent stores for Tauri",
+            "homepage": "https://tb.dev.br/tauri-store/",
             "id": 824352186,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-19T13:43:48Z",
+            "open_issues": 10,
             "owner": "ferreira-tb",
             "repo": "tauri-store",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "nuxt",
+              "pinia",
+              "react",
+              "svelte",
+              "tauri",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -784,12 +1302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri plugin for network (scanning, detection)",
+            "homepage": null,
             "id": 678317896,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-03-26T05:58:40Z",
+            "open_issues": 3,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-network",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -800,12 +1323,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Supercharge your Tauri app with intelligent disk & memory caching. Features TTL, compression, auto-cleanup, and cross-platform support for optimized performance.",
+            "homepage": "https://crates.io/crates/tauri-plugin-cache",
             "id": 985074884,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-09T17:00:55Z",
+            "open_issues": 3,
             "owner": "Taiizor",
             "repo": "tauri-plugin-cache",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "auto-cleanup",
+              "cache",
+              "cache-storage",
+              "cleanup",
+              "compression",
+              "cross-platform",
+              "expiration",
+              "javascript",
+              "memory",
+              "optimization",
+              "performance",
+              "rust",
+              "statistics",
+              "storage",
+              "tauri",
+              "tauri-plugin",
+              "tauri-v2",
+              "ttl",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -816,12 +1364,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extended with additional methods for files and directories.",
+            "homepage": "https://crates.io/crates/tauri-plugin-fs-pro",
             "id": 893049861,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-10-23T03:47:24Z",
+            "open_issues": 0,
             "owner": "ayangweb",
             "repo": "tauri-plugin-fs-pro",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "fs-extra",
+              "rust",
+              "tauri",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -832,12 +1390,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri v2 plugin for interacting with the Android Sharesheet and iOS Share Pane",
+            "homepage": null,
             "id": 845615443,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-29T19:11:45Z",
+            "open_issues": 4,
             "owner": "buildyourwebapp",
             "repo": "tauri-plugin-sharesheet",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "android",
+              "ios",
+              "tauri",
+              "tauri-plugin",
+              "tauri-v2"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -848,12 +1417,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tauri plugin for managin serial port communication, created using serialport-rs crate.",
+            "homepage": null,
             "id": 663981749,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-28T09:13:26Z",
+            "open_issues": 18,
             "owner": "deid84",
             "repo": "tauri-plugin-serialport",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "plugin",
+              "rust",
+              "serial",
+              "serialport",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -864,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 875181265,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-07-21T03:26:06Z",
+            "open_issues": 2,
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-tcp",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -880,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 810105389,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-02-18T03:26:09Z",
+            "open_issues": 1,
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-udp",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -896,12 +1486,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for Tauri that allows you to control Discord Rich Presence.",
+            "homepage": null,
             "id": 922588148,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-04-12T02:27:13Z",
+            "open_issues": 1,
             "owner": "smokingplaya",
             "repo": "tauri-plugin-drpc",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "discord",
+              "ipc",
+              "rpc",
+              "rust",
+              "tauri",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -912,12 +1514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1032568724,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-05T20:21:28Z",
+            "open_issues": 0,
             "owner": "alexqqqqqq777",
             "repo": "tauri-plugin-dragout",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -928,12 +1535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 875349185,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-02-11T10:24:40Z",
+            "open_issues": 1,
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-mqtt",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -944,12 +1556,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mobile plugin for Tauri for viewing and sharing files.",
+            "homepage": "https://crates.io/crates/tauri-plugin-view",
             "id": 889313166,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-11-21T16:50:20Z",
+            "open_issues": 1,
             "owner": "ecmel",
             "repo": "tauri-plugin-view",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "mobile",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -960,12 +1580,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the evidence path behind every recall. No cloud, no glue code — runs on server, browser, mobile and desktop.",
+            "homepage": "https://velesdb.com",
             "id": 1118411810,
             "language": "Rust",
-            "last_commit": "2026-08-28T11:35:50Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:15:44Z",
+            "open_issues": 21,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "ai",
+              "ai-memory",
+              "all-in-one-databse",
+              "avx512",
+              "columnstore-database",
+              "embeddings",
+              "graph-database",
+              "hnsw",
+              "local-first",
+              "machine-learning",
+              "mem0",
+              "mem0-alternative",
+              "rag",
+              "rust",
+              "search-engine",
+              "simd",
+              "vector-database",
+              "zep"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -976,12 +1620,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tauri v2 plugin that enables In-App Purchases (IAP)",
+            "homepage": null,
             "id": 1028523824,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T09:23:09Z",
+            "open_issues": 9,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "google-play-billing",
+              "iap",
+              "in-app-purchase",
+              "microsoft-store",
+              "rust",
+              "storekit2",
+              "tauri",
+              "tauri-plugin",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -992,12 +1651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 853983715,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-08T20:53:50Z",
+            "open_issues": 2,
             "owner": "inKibra",
             "repo": "tauri-plugins",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1008,12 +1672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 853983715,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-08T20:53:50Z",
+            "open_issues": 2,
             "owner": "inKibra",
             "repo": "tauri-plugins",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1024,12 +1693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 853983715,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-08T20:53:50Z",
+            "open_issues": 2,
             "owner": "inKibra",
             "repo": "tauri-plugins",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1040,12 +1714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 931847827,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T05:21:48Z",
+            "open_issues": 0,
             "owner": "aiueo13",
             "repo": "tauri-plugin-android-fs",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1056,12 +1735,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive Tauri plugin to access device information including Battery, Network, Storage, Display, and System Details.",
+            "homepage": "https://edisdev.github.io/tauri-plugin-device-info/",
             "id": 1141674043,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T23:21:59Z",
+            "open_issues": 0,
             "owner": "edisdev",
             "repo": "tauri-plugin-device-info",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "android",
+              "desk",
+              "desktop-app",
+              "device-info",
+              "ios",
+              "rust",
+              "tauri",
+              "tauri-plugin",
+              "tauri-plugin-device-info"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1072,12 +1766,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tauri plugin that exposes the application’s UI to a web browser, allowing full interaction while the native app continues running. This enables frontend debug, end-to-end UI testing using existing web-based testing tools without requiring modifications to the app itself.",
+            "homepage": "https://docs.draviavemal.com/",
             "id": 1043020066,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-05T02:30:44Z",
+            "open_issues": 0,
             "owner": "DraviaVemal",
             "repo": "tauri-remote-ui",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1088,12 +1787,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This plugin provides thermal printer functionality for Tauri applications, allowing you to print documents, test printers, and list available printers.",
+            "homepage": null,
             "id": 1147675121,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-29T15:20:59Z",
+            "open_issues": 0,
             "owner": "luis3132",
             "repo": "tauri-plugin-thermal-printer",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "plugin",
+              "printer",
+              "rust",
+              "tauri",
+              "thermal",
+              "thermal-printer",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1104,12 +1816,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri plugin to block the power save functionality in the OS",
+            "homepage": null,
             "id": 489465369,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-03-17T17:48:11Z",
+            "open_issues": 5,
             "owner": "pevers",
             "repo": "tauri-plugin-nosleep",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "caffeine",
+              "nosleep",
+              "powersaving",
+              "prevent-screen-lock",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1120,12 +1843,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring Electron-like backend js runtime to Tauri",
+            "homepage": null,
             "id": 1158044905,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-07-22T09:34:32Z",
+            "open_issues": 1,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-js",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "electron",
+              "kkrpc",
+              "tauri",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1136,12 +1869,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Glance, Apple WidgetKit, Windows Adaptive Cards, and desktop webviews — from a single declarative IR.",
+            "homepage": "https://s00d.github.io/tauri-plugin-widgets/",
             "id": 1168563457,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-05T08:51:45Z",
+            "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-widgets",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cross-platform",
+              "plugin",
+              "tauri",
+              "winget"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1152,12 +1895,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring libsql + encryption + turso sync + drizzle orm to Tauri apps",
+            "homepage": null,
             "id": 1166029766,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-07-06T23:00:56Z",
+            "open_issues": 1,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-libsql",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "drizzle",
+              "drizzle-orm",
+              "libsql",
+              "sqlite",
+              "tauri",
+              "turso"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1168,12 +1923,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform ESC/POS printer plugin for Tauri with USB and TCP support.",
+            "homepage": null,
             "id": 1241536711,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-29T18:22:28Z",
+            "open_issues": 0,
             "owner": "Kosadchiy",
             "repo": "tauri-plugin-esc-pos",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1184,12 +1944,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tauri plugin to handle share intents to your app, even when the webview is not available (with a queue).",
+            "homepage": null,
             "id": 1105140462,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-01-08T14:55:19Z",
+            "open_issues": 1,
             "owner": "IT-ess",
             "repo": "tauri-plugin-mobile-sharetarget",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1200,12 +1965,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logging for tauri using the tracing crate",
+            "homepage": null,
             "id": 963690001,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-05-07T23:18:19Z",
+            "open_issues": 1,
             "owner": "fltsci",
             "repo": "tauri-plugin-tracing",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1216,12 +1986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri plugin to request unrestricted background usage on Android",
+            "homepage": null,
             "id": 1137019398,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-01-20T08:46:49Z",
+            "open_issues": 0,
             "owner": "NeoHuncho",
             "repo": "tauri-plugin-android-battery-optimization",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1232,12 +2007,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access iOS photos album",
+            "homepage": null,
             "id": 1119395623,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-06T09:02:21Z",
+            "open_issues": 0,
             "owner": "Gbyte-Group",
             "repo": "tauri-plugin-ios-photos",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ios",
+              "mobile",
+              "photo",
+              "rust",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1248,12 +2034,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allows requesting app ratings within the app, without leaving the current application.",
+            "homepage": null,
             "id": 1122663094,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-02-25T07:16:10Z",
+            "open_issues": 0,
             "owner": "Gbyte-Group",
             "repo": "tauri-plugin-in-app-review",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "app",
+              "applestore",
+              "ios",
+              "mobile",
+              "review",
+              "tauri",
+              "tauri-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         }
@@ -1270,12 +2069,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make Desktop apps with Deno 🦕",
+            "homepage": "https://astrodon.land",
             "id": 443840726,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-26T14:45:16Z",
+            "open_issues": 11,
             "owner": "astrodon",
             "repo": "astrodon",
-            "stars": 1023
+            "stars": 1023,
+            "topics": [
+              "astrodon",
+              "deno",
+              "javascript",
+              "rust",
+              "tauri",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1286,12 +2097,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Completely typesafe Tauri commands",
+            "homepage": null,
             "id": 562488334,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-26T01:30:00Z",
+            "open_issues": 28,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 785
+            "stars": 785,
+            "topics": [
+              "rspc",
+              "specta",
+              "tauri",
+              "typesafey"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1302,12 +2123,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example macOS Menubar app built with Tauri",
+            "homepage": null,
             "id": 756580573,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:16:05Z",
+            "open_issues": 10,
             "owner": "ahkohd",
             "repo": "tauri-macos-menubar-app-example",
-            "stars": 388
+            "stars": 388,
+            "topics": [
+              "macos",
+              "rust",
+              "tauri",
+              "tauri-template"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1318,12 +2149,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example macOS Spotlight app built with Tauri",
+            "homepage": null,
             "id": 586078174,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-09-21T14:23:25Z",
+            "open_issues": 1,
             "owner": "ahkohd",
             "repo": "tauri-macos-spotlight-example",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "macos",
+              "rust",
+              "tauri",
+              "tauri-template"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1334,12 +2175,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol (MCP) server and plugin for Tauri v2 development",
+            "homepage": "https://hypothesi.github.io/mcp-server-tauri/",
             "id": 1104967813,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:40:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:52:12Z",
+            "open_issues": 17,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "automation",
+              "cli",
+              "gemini-cli-extension",
+              "mcp",
+              "tauri",
+              "tauri-v2"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1350,12 +2203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrate Tauri in a Vite project to build cross-platform apps.",
+            "homepage": null,
             "id": 437627701,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-11T03:08:07Z",
+            "open_issues": 3,
             "owner": "amrbashir",
             "repo": "vite-plugin-tauri",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1366,12 +2224,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplifies the use of Axios in Tauri App",
+            "homepage": null,
             "id": 514718332,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-10T21:17:08Z",
+            "open_issues": 7,
             "owner": "persiliao",
             "repo": "axios-tauri-api-adapter",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "api",
+              "axios",
+              "axios-adapter",
+              "http",
+              "tauri",
+              "tauri-app",
+              "tauri2"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1382,12 +2253,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TypeScript RPC protocol for multiple environments (iframe, web worker, stdio, http, WebSocket)",
+            "homepage": "https://docs.kkrpc.kunkun.sh/",
             "id": 889693591,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T16:36:37Z",
+            "open_issues": 0,
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "chrome-extension",
+              "elysia",
+              "hono",
+              "http",
+              "iframe",
+              "stdio",
+              "websocket",
+              "webworker",
+              "worker-threads"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1398,12 +2284,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted, open-source update server for desktop apps (Velopack, Electron, Tauri, native). Own your release pipeline: version metadata, stable/beta/nightly channels, S3 artifacts, simple checkVersion API.",
+            "homepage": "https://faynosync.com",
             "id": 588595239,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T11:31:22Z",
+            "open_issues": 1,
             "owner": "ku9nov",
             "repo": "faynoSync",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "api",
+              "auto-update",
+              "cross-platform",
+              "desktop-app",
+              "electron",
+              "electron-updater",
+              "go",
+              "golang",
+              "mongodb",
+              "s3",
+              "self-hosted",
+              "software-updates",
+              "tauri",
+              "tuf",
+              "update-server"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1414,12 +2321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri file drop handling component for Svelte",
+            "homepage": null,
             "id": 433673027,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-07-25T04:16:27Z",
+            "open_issues": 1,
             "owner": "kasper9n",
             "repo": "svelte-tauri-filedrop",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "dropzone",
+              "filedrop",
+              "package",
+              "svelte",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1430,12 +2348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "extention for using htmx with tauri apis",
+            "homepage": null,
             "id": 795989880,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-02-11T10:29:30Z",
+            "open_issues": 3,
             "owner": "ChristianPavilonis",
             "repo": "tauri-htmx-extension",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1446,12 +2369,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run JavaScript/TypeScript code with Deno Code Engine, in Tauri apps.",
+            "homepage": null,
             "id": 896314458,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-21T06:52:08Z",
+            "open_issues": 3,
             "owner": "typed-sigterm",
             "repo": "deno-in-tauri",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "deno",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1462,12 +2393,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maintained fork for Tauri update server powered by Cloudflare Workers",
+            "homepage": null,
             "id": 799006165,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T23:02:26Z",
+            "open_issues": 9,
             "owner": "mackenly",
             "repo": "tauri-update-cloudflare",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "cloudflare-workers",
+              "rust",
+              "tauri",
+              "tauri-update"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         }
@@ -1476,15 +2417,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:19:57.640Z",
+    "last_updated": "2026-08-29T04:18:01.007Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
+      "homepage": null,
       "id": 450871432,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-24T10:14:22Z",
+      "open_issues": 29,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8041
+      "stars": 8043,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "tauri"
+      ]
     },
     "original_repository_sha": "a68d51963d5aea5e1cf2149cce4ac752166e2587",
     "enhanced_repository": "enhansome/enhansome-tauri",
