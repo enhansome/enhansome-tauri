@@ -45,7 +45,7 @@
             "id": 513734670,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-22T13:35:54Z",
+            "last_commit": "2026-08-29T13:38:23Z",
             "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
@@ -129,6 +129,27 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-template",
+          "description": "Production-ready template with React, TypeScript, shadcn/ui, Tailwind, Tanstack Query, Zustand & boilerplate UI. Claude Code-ready.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A production-ready template for building modern desktop applications with Tauri v2, React 19, and TypeScript. This template provides a solid foundation with best practices, comprehensive documentation, and quality tooling built-in.",
+            "homepage": null,
+            "id": 1029852994,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-12T13:18:42Z",
+            "open_issues": 7,
+            "owner": "dannysmith",
+            "repo": "tauri-template",
+            "stars": 301,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-solid-ts-tailwind-vite-template",
           "description": "SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint and Prettier.",
           "children": [],
@@ -163,27 +184,6 @@
         },
         {
           "node_type": "item",
-          "title": "tauri-template",
-          "description": "Production-ready template with React, TypeScript, shadcn/ui, Tailwind, Tanstack Query, Zustand & boilerplate UI. Claude Code-ready.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A production-ready template for building modern desktop applications with Tauri v2, React 19, and TypeScript. This template provides a solid foundation with best practices, comprehensive documentation, and quality tooling built-in.",
-            "homepage": null,
-            "id": 1029852994,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-12T13:18:42Z",
-            "open_issues": 7,
-            "owner": "dannysmith",
-            "repo": "tauri-template",
-            "stars": 300,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
           "title": "create-tauri-react",
           "description": "Well-architected template for Vite, React, and Tailwind CSS.",
           "children": [],
@@ -198,7 +198,7 @@
             "open_issues": 2,
             "owner": "MrLightful",
             "repo": "create-tauri-react",
-            "stars": 233,
+            "stars": 236,
             "topics": [
               "desktop",
               "react",
@@ -731,7 +731,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:56:40Z",
-            "open_issues": 488,
+            "open_issues": 491,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1801,
@@ -759,7 +759,7 @@
             "open_issues": 18,
             "owner": "tauri-apps",
             "repo": "window-vibrancy",
-            "stars": 1033,
+            "stars": 1034,
             "topics": [
               "acrylic",
               "blur",
@@ -1332,7 +1332,7 @@
             "open_issues": 3,
             "owner": "Taiizor",
             "repo": "tauri-plugin-cache",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "auto-cleanup",
               "cache",
@@ -1373,7 +1373,7 @@
             "open_issues": 0,
             "owner": "ayangweb",
             "repo": "tauri-plugin-fs-pro",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "fs-extra",
               "rust",
@@ -1585,8 +1585,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:15:44Z",
-            "open_issues": 21,
+            "last_commit": "2026-08-30T03:15:15Z",
+            "open_issues": 18,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 90,
@@ -1852,7 +1852,7 @@
             "open_issues": 1,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-js",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "electron",
               "kkrpc",
@@ -1904,7 +1904,7 @@
             "open_issues": 1,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-libsql",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "drizzle",
               "drizzle-orm",
@@ -2132,7 +2132,7 @@
             "open_issues": 10,
             "owner": "ahkohd",
             "repo": "tauri-macos-menubar-app-example",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "macos",
               "rust",
@@ -2262,7 +2262,7 @@
             "open_issues": 0,
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "chrome-extension",
               "elysia",
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:00:51.335Z",
+    "last_updated": "2026-08-30T08:17:46.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2429,7 +2429,7 @@
       "open_issues": 29,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8043,
+      "stars": 8047,
       "topics": [
         "awesome",
         "awesome-list",
