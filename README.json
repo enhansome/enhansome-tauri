@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "nuxt",
               "nuxt4",
@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-27T22:29:57Z",
+            "last_commit": "2026-08-30T14:34:55Z",
             "open_issues": 12,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T14:56:40Z",
-            "open_issues": 491,
+            "last_commit": "2026-08-31T07:56:49Z",
+            "open_issues": 489,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1801,
+            "stars": 1803,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -1149,7 +1149,7 @@
             "open_issues": 0,
             "owner": "freethinkel",
             "repo": "tauri-nspopover-plugin",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "cargo",
               "macos",
@@ -1585,8 +1585,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T03:15:15Z",
-            "open_issues": 18,
+            "last_commit": "2026-08-31T08:31:57Z",
+            "open_issues": 23,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 90,
@@ -1625,7 +1625,7 @@
             "id": 1028523824,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-26T09:23:09Z",
+            "last_commit": "2026-08-30T22:57:13Z",
             "open_issues": 9,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
@@ -1723,7 +1723,7 @@
             "open_issues": 0,
             "owner": "aiueo13",
             "repo": "tauri-plugin-android-fs",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1775,7 +1775,7 @@
             "open_issues": 0,
             "owner": "DraviaVemal",
             "repo": "tauri-remote-ui",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1852,7 +1852,7 @@
             "open_issues": 1,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-js",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "electron",
               "kkrpc",
@@ -2106,7 +2106,7 @@
             "open_issues": 28,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 785,
+            "stars": 786,
             "topics": [
               "rspc",
               "specta",
@@ -2144,6 +2144,34 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-mcp-server",
+          "description": "MCP server and plugin for rapid development and debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Model Context Protocol (MCP) server and plugin for Tauri v2 development",
+            "homepage": "https://hypothesi.github.io/mcp-server-tauri/",
+            "id": 1104967813,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:52:12Z",
+            "open_issues": 17,
+            "owner": "hypothesi",
+            "repo": "mcp-server-tauri",
+            "stars": 296,
+            "topics": [
+              "automation",
+              "cli",
+              "gemini-cli-extension",
+              "mcp",
+              "tauri",
+              "tauri-v2"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-macos-spotlight-example",
           "description": "telemetry - Example macOS Spotlight app project.",
           "children": [],
@@ -2164,34 +2192,6 @@
               "rust",
               "tauri",
               "tauri-template"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-mcp-server",
-          "description": "MCP server and plugin for rapid development and debugging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Model Context Protocol (MCP) server and plugin for Tauri v2 development",
-            "homepage": "https://hypothesi.github.io/mcp-server-tauri/",
-            "id": 1104967813,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-28T22:52:12Z",
-            "open_issues": 17,
-            "owner": "hypothesi",
-            "repo": "mcp-server-tauri",
-            "stars": 294,
-            "topics": [
-              "automation",
-              "cli",
-              "gemini-cli-extension",
-              "mcp",
-              "tauri",
-              "tauri-v2"
             ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -2262,7 +2262,7 @@
             "open_issues": 0,
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "chrome-extension",
               "elysia",
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:17:46.227Z",
+    "last_updated": "2026-08-31T08:37:58.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2429,7 +2429,7 @@
       "open_issues": 29,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8047,
+      "stars": 8048,
       "topics": [
         "awesome",
         "awesome-list",
