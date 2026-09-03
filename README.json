@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 864,
+            "stars": 865,
             "topics": [
               "nuxt",
               "nuxt4",
@@ -49,7 +49,7 @@
             "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
-            "stars": 694,
+            "stars": 693,
             "topics": [
               "biome",
               "biomejs",
@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-30T14:34:55Z",
+            "last_commit": "2026-09-02T23:11:14Z",
             "open_issues": 12,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -129,27 +129,6 @@
         },
         {
           "node_type": "item",
-          "title": "tauri-template",
-          "description": "Production-ready template with React, TypeScript, shadcn/ui, Tailwind, Tanstack Query, Zustand & boilerplate UI. Claude Code-ready.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A production-ready template for building modern desktop applications with Tauri v2, React 19, and TypeScript. This template provides a solid foundation with best practices, comprehensive documentation, and quality tooling built-in.",
-            "homepage": null,
-            "id": 1029852994,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-12T13:18:42Z",
-            "open_issues": 7,
-            "owner": "dannysmith",
-            "repo": "tauri-template",
-            "stars": 301,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
           "title": "tauri-solid-ts-tailwind-vite-template",
           "description": "SolidJS Template preconfigured to use Vite, TypeScript, Tailwind CSS, ESLint and Prettier.",
           "children": [],
@@ -184,6 +163,27 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-template",
+          "description": "Production-ready template with React, TypeScript, shadcn/ui, Tailwind, Tanstack Query, Zustand & boilerplate UI. Claude Code-ready.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A production-ready template for building modern desktop applications with Tauri v2, React 19, and TypeScript. This template provides a solid foundation with best practices, comprehensive documentation, and quality tooling built-in.",
+            "homepage": null,
+            "id": 1029852994,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-12T13:18:42Z",
+            "open_issues": 7,
+            "owner": "dannysmith",
+            "repo": "tauri-template",
+            "stars": 300,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "create-tauri-react",
           "description": "Well-architected template for Vite, React, and Tailwind CSS.",
           "children": [],
@@ -198,7 +198,7 @@
             "open_issues": 2,
             "owner": "MrLightful",
             "repo": "create-tauri-react",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "desktop",
               "react",
@@ -280,7 +280,7 @@
             "id": 421298567,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-07-25T07:02:09Z",
+            "last_commit": "2026-09-03T02:23:56Z",
             "open_issues": 0,
             "owner": "kasper9n",
             "repo": "tauri-sveltekit-template",
@@ -601,8 +601,8 @@
             "id": 1126651275,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T00:03:20Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-03T00:04:23Z",
+            "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-tanstack-start-react-template",
             "stars": 53,
@@ -638,7 +638,7 @@
             "open_issues": 1,
             "owner": "fudanglp",
             "repo": "tauri-fastapi-full-stack-template",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "boilerplate",
               "cross-platform",
@@ -731,7 +731,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T09:40:51Z",
-            "open_issues": 490,
+            "open_issues": 491,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1804,
@@ -964,7 +964,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-07-06T09:13:30Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "MnlPhlp",
             "repo": "tauri-plugin-blec",
             "stars": 226,
@@ -1063,7 +1063,7 @@
             "id": 475950142,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-26T23:53:51Z",
+            "last_commit": "2026-09-03T04:04:25Z",
             "open_issues": 49,
             "owner": "JonasKruckenberg",
             "repo": "tauri-plugin-graphql",
@@ -1095,7 +1095,7 @@
             "open_issues": 3,
             "owner": "marcomq",
             "repo": "tauri-plugin-python",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "python",
               "rust",
@@ -1373,7 +1373,7 @@
             "open_issues": 0,
             "owner": "ayangweb",
             "repo": "tauri-plugin-fs-pro",
-            "stars": 110,
+            "stars": 109,
             "topics": [
               "fs-extra",
               "rust",
@@ -1453,7 +1453,7 @@
             "open_issues": 2,
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-tcp",
-            "stars": 101,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1474,7 +1474,7 @@
             "open_issues": 1,
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-udp",
-            "stars": 101,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1585,8 +1585,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T07:04:11Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-03T06:27:23Z",
+            "open_issues": 20,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 90,
@@ -1625,7 +1625,7 @@
             "id": 1028523824,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T12:01:29Z",
+            "last_commit": "2026-09-02T11:36:47Z",
             "open_issues": 9,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
@@ -1660,7 +1660,7 @@
             "open_issues": 2,
             "owner": "inKibra",
             "repo": "tauri-plugins",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 2,
             "owner": "inKibra",
             "repo": "tauri-plugins",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1702,7 +1702,7 @@
             "open_issues": 2,
             "owner": "inKibra",
             "repo": "tauri-plugins",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1744,7 +1744,7 @@
             "open_issues": 0,
             "owner": "edisdev",
             "repo": "tauri-plugin-device-info",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "android",
               "desk",
@@ -2106,7 +2106,7 @@
             "open_issues": 28,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 786,
+            "stars": 788,
             "topics": [
               "rspc",
               "specta",
@@ -2128,7 +2128,7 @@
             "id": 756580573,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:33:23Z",
+            "last_commit": "2026-09-02T23:42:19Z",
             "open_issues": 10,
             "owner": "ahkohd",
             "repo": "tauri-macos-menubar-app-example",
@@ -2262,7 +2262,7 @@
             "open_issues": 0,
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 173,
+            "stars": 174,
             "topics": [
               "chrome-extension",
               "elysia",
@@ -2289,7 +2289,7 @@
             "id": 588595239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T11:31:22Z",
+            "last_commit": "2026-09-02T10:14:18Z",
             "open_issues": 1,
             "owner": "ku9nov",
             "repo": "faynoSync",
@@ -2326,7 +2326,7 @@
             "id": 433673027,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-07-25T04:16:27Z",
+            "last_commit": "2026-09-03T02:23:18Z",
             "open_issues": 1,
             "owner": "kasper9n",
             "repo": "svelte-tauri-filedrop",
@@ -2398,8 +2398,8 @@
             "id": 799006165,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-11T23:02:26Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-02T21:17:40Z",
+            "open_issues": 11,
             "owner": "mackenly",
             "repo": "tauri-update-cloudflare",
             "stars": 36,
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:05:21.341Z",
+    "last_updated": "2026-09-03T07:09:30.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2429,7 +2429,7 @@
       "open_issues": 29,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8052,
+      "stars": 8058,
       "topics": [
         "awesome",
         "awesome-list",
