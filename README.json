@@ -45,7 +45,7 @@
             "id": 513734670,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:38:23Z",
+            "last_commit": "2026-09-05T13:35:49Z",
             "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
@@ -78,8 +78,8 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-03T21:43:04Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-05T18:27:16Z",
+            "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
             "stars": 490,
@@ -734,7 +734,7 @@
             "open_issues": 491,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1806,
+            "stars": 1807,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -1010,7 +1010,7 @@
             "id": 752736476,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-31T05:45:42Z",
+            "last_commit": "2026-09-06T06:12:46Z",
             "open_issues": 1,
             "owner": "s00d",
             "repo": "tauri-plugin-serialplugin",
@@ -1551,30 +1551,6 @@
         },
         {
           "node_type": "item",
-          "title": "tauri-plugin-view",
-          "description": "View and share files on mobile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A mobile plugin for Tauri for viewing and sharing files.",
-            "homepage": "https://crates.io/crates/tauri-plugin-view",
-            "id": 889313166,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2024-11-21T16:50:20Z",
-            "open_issues": 1,
-            "owner": "ecmel",
-            "repo": "tauri-plugin-view",
-            "stars": 91,
-            "topics": [
-              "mobile",
-              "tauri-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
           "title": "tauri-plugin-velesdb",
           "description": "Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.",
           "children": [],
@@ -1585,11 +1561,11 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T03:21:04Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-06T04:44:20Z",
+            "open_issues": 14,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "ai",
               "ai-memory",
@@ -1609,6 +1585,30 @@
               "simd",
               "vector-database",
               "zep"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tauri-plugin-view",
+          "description": "View and share files on mobile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A mobile plugin for Tauri for viewing and sharing files.",
+            "homepage": "https://crates.io/crates/tauri-plugin-view",
+            "id": 889313166,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2024-11-21T16:50:20Z",
+            "open_issues": 1,
+            "owner": "ecmel",
+            "repo": "tauri-plugin-view",
+            "stars": 91,
+            "topics": [
+              "mobile",
+              "tauri-plugin"
             ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -2106,7 +2106,7 @@
             "open_issues": 28,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 790,
+            "stars": 792,
             "topics": [
               "rspc",
               "specta",
@@ -2158,7 +2158,7 @@
             "open_issues": 18,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "automation",
               "cli",
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:55:41.139Z",
+    "last_updated": "2026-09-06T07:06:53.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
