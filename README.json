@@ -45,8 +45,8 @@
             "id": 513734670,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T13:35:49Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-11T06:38:27Z",
+            "open_issues": 1,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
             "stars": 694,
@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-10T01:27:05Z",
+            "last_commit": "2026-09-10T17:01:46Z",
             "open_issues": 12,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -160,11 +160,11 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T03:52:34Z",
+            "last_commit": "2026-09-10T21:48:38Z",
             "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
-            "stars": 300,
+            "stars": 301,
             "topics": [
               "eslint",
               "prettier",
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T02:40:51Z",
-            "open_issues": 494,
+            "last_commit": "2026-09-10T21:39:00Z",
+            "open_issues": 495,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1810,
+            "stars": 1811,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -791,7 +791,7 @@
             "open_issues": 12,
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
-            "stars": 417,
+            "stars": 418,
             "topics": [
               "macos",
               "objcective-c",
@@ -1010,7 +1010,7 @@
             "id": 752736476,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T04:32:55Z",
+            "last_commit": "2026-09-11T05:12:18Z",
             "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-serialplugin",
@@ -1063,7 +1063,7 @@
             "id": 475950142,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T02:06:09Z",
+            "last_commit": "2026-09-11T03:01:58Z",
             "open_issues": 52,
             "owner": "JonasKruckenberg",
             "repo": "tauri-plugin-graphql",
@@ -1191,6 +1191,32 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-plugin-screenshots",
+          "description": "Get screenshots of windows and monitors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Get screenshots of windows and monitors.",
+            "homepage": "https://crates.io/crates/tauri-plugin-screenshots",
+            "id": 940048857,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2025-05-01T03:08:06Z",
+            "open_issues": 2,
+            "owner": "ayangweb",
+            "repo": "tauri-plugin-screenshots",
+            "stars": 143,
+            "topics": [
+              "rust",
+              "screenshots",
+              "tauri",
+              "tauri-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-desktop-underlay",
           "description": "Attach a window to desktop, below icons and above wallpaper.",
           "children": [],
@@ -1207,32 +1233,6 @@
             "repo": "tauri-plugin-desktop-underlay",
             "stars": 142,
             "topics": [
-              "tauri",
-              "tauri-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-plugin-screenshots",
-          "description": "Get screenshots of windows and monitors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Get screenshots of windows and monitors.",
-            "homepage": "https://crates.io/crates/tauri-plugin-screenshots",
-            "id": 940048857,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2025-05-01T03:08:06Z",
-            "open_issues": 2,
-            "owner": "ayangweb",
-            "repo": "tauri-plugin-screenshots",
-            "stars": 142,
-            "topics": [
-              "rust",
-              "screenshots",
               "tauri",
               "tauri-plugin"
             ]
@@ -1561,8 +1561,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T07:16:09Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-11T07:09:30Z",
+            "open_issues": 25,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 91,
@@ -1744,7 +1744,7 @@
             "open_issues": 0,
             "owner": "edisdev",
             "repo": "tauri-plugin-device-info",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "android",
               "desk",
@@ -1838,6 +1838,32 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-plugin-widgets",
+          "description": "Cross-platform home-screen widgets with WidgetKit, AppWidgetManager, Adaptive Cards, and desktop webviews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Android Glance, Apple WidgetKit, Windows Adaptive Cards, and desktop webviews — from a single declarative IR.",
+            "homepage": "https://s00d.github.io/tauri-plugin-widgets/",
+            "id": 1168563457,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-05T08:51:45Z",
+            "open_issues": 0,
+            "owner": "s00d",
+            "repo": "tauri-plugin-widgets",
+            "stars": 21,
+            "topics": [
+              "cross-platform",
+              "plugin",
+              "tauri",
+              "winget"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-js",
           "description": "Give your app Electron-like JS backends with type-safe RPC powered by . Supports Bun, Node.js, and Deno.",
           "children": [],
@@ -1864,32 +1890,6 @@
         },
         {
           "node_type": "item",
-          "title": "tauri-plugin-widgets",
-          "description": "Cross-platform home-screen widgets with WidgetKit, AppWidgetManager, Adaptive Cards, and desktop webviews.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Android Glance, Apple WidgetKit, Windows Adaptive Cards, and desktop webviews — from a single declarative IR.",
-            "homepage": "https://s00d.github.io/tauri-plugin-widgets/",
-            "id": 1168563457,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-08-05T08:51:45Z",
-            "open_issues": 0,
-            "owner": "s00d",
-            "repo": "tauri-plugin-widgets",
-            "stars": 19,
-            "topics": [
-              "cross-platform",
-              "plugin",
-              "tauri",
-              "winget"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
           "title": "tauri-plugin-libsql",
           "description": "libsql/Turso database support with encryption, embedded replicas, and Drizzle ORM integration.",
           "children": [],
@@ -1904,7 +1904,7 @@
             "open_issues": 1,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-libsql",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "drizzle",
               "drizzle-orm",
@@ -2128,8 +2128,8 @@
             "id": 756580573,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T01:40:33Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-10T21:36:01Z",
+            "open_issues": 9,
             "owner": "ahkohd",
             "repo": "tauri-macos-menubar-app-example",
             "stars": 389,
@@ -2289,7 +2289,7 @@
             "id": 588595239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T10:14:18Z",
+            "last_commit": "2026-09-10T12:51:34Z",
             "open_issues": 1,
             "owner": "ku9nov",
             "repo": "faynoSync",
@@ -2398,8 +2398,8 @@
             "id": 799006165,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T12:28:20Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-10T09:17:11Z",
+            "open_issues": 15,
             "owner": "mackenly",
             "repo": "tauri-update-cloudflare",
             "stars": 36,
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:17:31.814Z",
+    "last_updated": "2026-09-11T07:16:23.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2429,7 +2429,7 @@
       "open_issues": 29,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8067,
+      "stars": 8072,
       "topics": [
         "awesome",
         "awesome-list",
