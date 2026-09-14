@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 865,
+            "stars": 869,
             "topics": [
               "nuxt",
               "nuxt4",
@@ -111,7 +111,7 @@
             "open_issues": 1,
             "owner": "elibroftw",
             "repo": "modern-desktop-app-template",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "desktop-app",
               "gui",
@@ -416,7 +416,7 @@
             "open_issues": 0,
             "owner": "sollambert",
             "repo": "rust-full-stack-with-auth-template",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T01:28:47Z",
-            "open_issues": 496,
+            "last_commit": "2026-09-13T19:04:00Z",
+            "open_issues": 503,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1811,
+            "stars": 1813,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -1329,7 +1329,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-02T02:48:17Z",
-            "open_issues": 3,
+            "open_issues": 1,
             "owner": "Taiizor",
             "repo": "tauri-plugin-cache",
             "stars": 123,
@@ -1561,8 +1561,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T06:40:04Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-14T07:02:09Z",
+            "open_issues": 63,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 91,
@@ -1625,8 +1625,8 @@
             "id": 1028523824,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T09:27:13Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-13T22:04:49Z",
+            "open_issues": 11,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 81,
@@ -1723,7 +1723,7 @@
             "open_issues": 0,
             "owner": "aiueo13",
             "repo": "tauri-plugin-android-fs",
-            "stars": 38,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -2158,7 +2158,7 @@
             "open_issues": 19,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "automation",
               "cli",
@@ -2398,7 +2398,7 @@
             "id": 799006165,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T09:17:11Z",
+            "last_commit": "2026-09-13T22:05:44Z",
             "open_issues": 15,
             "owner": "mackenly",
             "repo": "tauri-update-cloudflare",
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:27:03.508Z",
+    "last_updated": "2026-09-14T07:52:55.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
