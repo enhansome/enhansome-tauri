@@ -198,7 +198,7 @@
             "open_issues": 2,
             "owner": "MrLightful",
             "repo": "create-tauri-react",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "desktop",
               "react",
@@ -731,10 +731,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-13T19:04:00Z",
-            "open_issues": 503,
+            "open_issues": 504,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1813,
+            "stars": 1815,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -818,7 +818,7 @@
             "open_issues": 2,
             "owner": "MatsDK",
             "repo": "TauRPC",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "rust",
               "tauri"
@@ -2078,7 +2078,7 @@
             "open_issues": 11,
             "owner": "astrodon",
             "repo": "astrodon",
-            "stars": 1024,
+            "stars": 1023,
             "topics": [
               "astrodon",
               "deno",
@@ -2106,7 +2106,7 @@
             "open_issues": 32,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "rspc",
               "specta",
@@ -2290,7 +2290,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T13:01:04Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "ku9nov",
             "repo": "faynoSync",
             "stars": 156,
@@ -2417,7 +2417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:52:55.639Z",
+    "last_updated": "2026-09-15T07:42:37.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2426,10 +2426,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-24T10:14:22Z",
-      "open_issues": 29,
+      "open_issues": 30,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8075,
+      "stars": 8078,
       "topics": [
         "awesome",
         "awesome-list",
