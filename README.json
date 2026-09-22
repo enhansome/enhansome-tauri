@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-20T23:00:51Z",
+            "last_commit": "2026-09-22T00:29:10Z",
             "open_issues": 12,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -111,7 +111,7 @@
             "open_issues": 1,
             "owner": "elibroftw",
             "repo": "modern-desktop-app-template",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "desktop-app",
               "gui",
@@ -139,11 +139,11 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T08:32:24Z",
+            "last_commit": "2026-09-22T00:29:39Z",
             "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "eslint",
               "prettier",
@@ -638,7 +638,7 @@
             "open_issues": 1,
             "owner": "fudanglp",
             "repo": "tauri-fastapi-full-stack-template",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "boilerplate",
               "cross-platform",
@@ -730,8 +730,8 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T06:17:45Z",
-            "open_issues": 503,
+            "last_commit": "2026-09-22T01:39:53Z",
+            "open_issues": 523,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1816,
@@ -787,7 +787,7 @@
             "id": 616317817,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T02:03:55Z",
+            "last_commit": "2026-09-21T21:17:45Z",
             "open_issues": 3,
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
@@ -921,11 +921,11 @@
             "id": 461339819,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-04T16:26:35Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-21T14:50:44Z",
+            "open_issues": 6,
             "owner": "timfish",
             "repo": "sentry-tauri",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -963,8 +963,8 @@
             "id": 875265669,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T09:48:31Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-22T07:30:11Z",
+            "open_issues": 9,
             "owner": "MnlPhlp",
             "repo": "tauri-plugin-blec",
             "stars": 227,
@@ -1519,8 +1519,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T07:01:58Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-22T03:19:19Z",
+            "open_issues": 36,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 94,
@@ -1626,7 +1626,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-20T22:04:41Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 81,
@@ -1812,6 +1812,32 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-plugin-widgets",
+          "description": "Cross-platform home-screen widgets with WidgetKit, AppWidgetManager, Adaptive Cards, and desktop webviews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Android Glance, Apple WidgetKit, Windows Adaptive Cards, and desktop webviews — from a single declarative IR.",
+            "homepage": "https://s00d.github.io/tauri-plugin-widgets/",
+            "id": 1168563457,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-05T08:51:45Z",
+            "open_issues": 0,
+            "owner": "s00d",
+            "repo": "tauri-plugin-widgets",
+            "stars": 24,
+            "topics": [
+              "cross-platform",
+              "plugin",
+              "tauri",
+              "winget"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-nosleep",
           "description": "Block the power save functionality in the OS.",
           "children": [],
@@ -1833,32 +1859,6 @@
               "powersaving",
               "prevent-screen-lock",
               "tauri-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-plugin-widgets",
-          "description": "Cross-platform home-screen widgets with WidgetKit, AppWidgetManager, Adaptive Cards, and desktop webviews.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Android Glance, Apple WidgetKit, Windows Adaptive Cards, and desktop webviews — from a single declarative IR.",
-            "homepage": "https://s00d.github.io/tauri-plugin-widgets/",
-            "id": 1168563457,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-08-05T08:51:45Z",
-            "open_issues": 0,
-            "owner": "s00d",
-            "repo": "tauri-plugin-widgets",
-            "stars": 23,
-            "topics": [
-              "cross-platform",
-              "plugin",
-              "tauri",
-              "winget"
             ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -2290,7 +2290,7 @@
             "id": 588595239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T14:43:10Z",
+            "last_commit": "2026-09-21T13:09:29Z",
             "open_issues": 2,
             "owner": "ku9nov",
             "repo": "faynoSync",
@@ -2358,7 +2358,7 @@
             "open_issues": 4,
             "owner": "ChristianPavilonis",
             "repo": "tauri-htmx-extension",
-            "stars": 121,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -2399,8 +2399,8 @@
             "id": 799006165,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T00:25:12Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-21T20:08:16Z",
+            "open_issues": 0,
             "owner": "mackenly",
             "repo": "tauri-update-cloudflare",
             "stars": 36,
@@ -2418,7 +2418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:56:46.825Z",
+    "last_updated": "2026-09-22T07:41:35.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
