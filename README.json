@@ -139,7 +139,7 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T11:52:35Z",
+            "last_commit": "2026-09-24T04:46:19Z",
             "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
@@ -601,7 +601,7 @@
             "id": 1126651275,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T00:07:54Z",
+            "last_commit": "2026-09-24T00:05:17Z",
             "open_issues": 3,
             "owner": "kvnxiao",
             "repo": "tauri-tanstack-start-react-template",
@@ -680,7 +680,7 @@
             "open_issues": 0,
             "owner": "codeitlikemiley",
             "repo": "tauri-leptos-ssr",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -730,8 +730,8 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T01:37:15Z",
-            "open_issues": 508,
+            "last_commit": "2026-09-24T04:11:41Z",
+            "open_issues": 517,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1816,
@@ -1063,7 +1063,7 @@
             "id": 475950142,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-19T00:36:03Z",
+            "last_commit": "2026-09-24T02:43:18Z",
             "open_issues": 52,
             "owner": "JonasKruckenberg",
             "repo": "tauri-plugin-graphql",
@@ -1095,7 +1095,7 @@
             "open_issues": 3,
             "owner": "marcomq",
             "repo": "tauri-plugin-python",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "python",
               "rust",
@@ -1519,11 +1519,11 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T03:51:57Z",
+            "last_commit": "2026-09-24T07:31:41Z",
             "open_issues": 37,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "ai",
               "ai-memory",
@@ -1625,8 +1625,8 @@
             "id": 1028523824,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-20T22:04:41Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-23T22:40:35Z",
+            "open_issues": 10,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 81,
@@ -1796,7 +1796,7 @@
             "open_issues": 0,
             "owner": "luis3132",
             "repo": "tauri-plugin-thermal-printer",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "escpos",
               "plugin",
@@ -2107,7 +2107,7 @@
             "open_issues": 32,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 800,
+            "stars": 801,
             "topics": [
               "rspc",
               "specta",
@@ -2159,7 +2159,7 @@
             "open_issues": 19,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "automation",
               "cli",
@@ -2187,7 +2187,7 @@
             "open_issues": 1,
             "owner": "ahkohd",
             "repo": "tauri-macos-spotlight-example",
-            "stars": 293,
+            "stars": 294,
             "topics": [
               "macos",
               "rust",
@@ -2294,7 +2294,7 @@
             "open_issues": 2,
             "owner": "ku9nov",
             "repo": "faynoSync",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "api",
               "auto-update",
@@ -2418,7 +2418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:44:20.209Z",
+    "last_updated": "2026-09-24T07:35:04.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2430,7 +2430,7 @@
       "open_issues": 30,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8083,
+      "stars": 8085,
       "topics": [
         "awesome",
         "awesome-list",
