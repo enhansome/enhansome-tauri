@@ -95,7 +95,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [tauri-plugin-pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) ⭐ 137 | 🐛 10 | 🌐 Rust | 📅 2026-08-19 ![v2] - Persistent Pinia stores for Vue.
 * [tauri-plugin-svelte](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-svelte) ⭐ 137 | 🐛 10 | 🌐 Rust | 📅 2026-08-19 ![v2] - Persistent Svelte stores.
 * [tauri-plugin-network](https://github.com/HuakunShen/tauri-plugin-network) ⭐ 127 | 🐛 3 | 🌐 Rust | 📅 2025-03-26 ![v2] - Tools for reading network information and scanning network.
-* [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) ⭐ 123 | 🐛 2 | 🌐 Rust | 📅 2026-10-01 ![v2] - Advanced disk caching solution with memory layer, TTL management, compression support, and cross-platform compatibility for desktop and mobile.
+* [tauri-plugin-cache](https://github.com/Taiizor/tauri-plugin-cache) ⭐ 124 | 🐛 2 | 🌐 Rust | 📅 2026-10-01 ![v2] - Advanced disk caching solution with memory layer, TTL management, compression support, and cross-platform compatibility for desktop and mobile.
 * [tauri-plugin-fs-pro](https://github.com/ayangweb/tauri-plugin-fs-pro) ⭐ 108 | 🐛 0 | 🌐 Rust | 📅 2025-10-23 ![v2] - Extended with additional methods for files and directories.
 * [tauri-plugin-sharesheet](https://github.com/buildyourwebapp/tauri-plugin-sharesheet) ⭐ 105 | 🐛 4 | 🌐 JavaScript | 📅 2024-08-29 ![v2] - Share content to other apps via the Android Sharesheet or iOS Share Pane.
 * [tauri-plugin-serialport](https://github.com/deid84/tauri-plugin-serialport) ⭐ 102 | 🐛 18 | 🌐 Rust | 📅 2026-06-28 ![v2] - Cross-compatible serialport communication tool.
