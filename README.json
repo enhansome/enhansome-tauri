@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-04T00:54:12Z",
+            "last_commit": "2026-10-05T00:49:37Z",
             "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -111,7 +111,7 @@
             "open_issues": 1,
             "owner": "elibroftw",
             "repo": "modern-desktop-app-template",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "desktop-app",
               "gui",
@@ -734,7 +734,7 @@
             "open_issues": 522,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1821,
+            "stars": 1824,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -759,7 +759,7 @@
             "open_issues": 21,
             "owner": "tauri-apps",
             "repo": "window-vibrancy",
-            "stars": 1037,
+            "stars": 1038,
             "topics": [
               "acrylic",
               "blur",
@@ -791,7 +791,7 @@
             "open_issues": 3,
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
-            "stars": 422,
+            "stars": 424,
             "topics": [
               "macos",
               "objcective-c",
@@ -818,7 +818,7 @@
             "open_issues": 2,
             "owner": "MatsDK",
             "repo": "TauRPC",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "rust",
               "tauri"
@@ -842,7 +842,7 @@
             "open_issues": 9,
             "owner": "CrossCopy",
             "repo": "tauri-plugin-clipboard",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "clipboard",
               "monitor",
@@ -868,7 +868,7 @@
             "open_issues": 2,
             "owner": "tauri-apps",
             "repo": "window-shadows",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "macos",
               "plugin",
@@ -898,7 +898,7 @@
             "open_issues": 0,
             "owner": "c2r0b",
             "repo": "tauri-plugin-context-menu",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "context-menu",
               "native",
@@ -1519,8 +1519,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T03:17:07Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-05T07:02:21Z",
+            "open_issues": 43,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 97,
@@ -1625,8 +1625,8 @@
             "id": 1028523824,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-04T08:25:07Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-04T19:23:06Z",
+            "open_issues": 3,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 81,
@@ -1822,7 +1822,7 @@
             "id": 1168563457,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-05T08:51:45Z",
+            "last_commit": "2026-10-04T13:36:16Z",
             "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-widgets",
@@ -2079,7 +2079,7 @@
             "open_issues": 11,
             "owner": "astrodon",
             "repo": "astrodon",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "astrodon",
               "deno",
@@ -2107,7 +2107,7 @@
             "open_issues": 32,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 803,
+            "stars": 806,
             "topics": [
               "rspc",
               "specta",
@@ -2159,7 +2159,7 @@
             "open_issues": 19,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 312,
+            "stars": 315,
             "topics": [
               "automation",
               "cli",
@@ -2187,7 +2187,7 @@
             "open_issues": 1,
             "owner": "ahkohd",
             "repo": "tauri-macos-spotlight-example",
-            "stars": 295,
+            "stars": 296,
             "topics": [
               "macos",
               "rust",
@@ -2418,7 +2418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:25:18.726Z",
+    "last_updated": "2026-10-05T09:00:52.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2430,7 +2430,7 @@
       "open_issues": 32,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8103,
+      "stars": 8105,
       "topics": [
         "awesome",
         "awesome-list",
