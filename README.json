@@ -160,7 +160,7 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T05:46:02Z",
+            "last_commit": "2026-10-06T10:23:04Z",
             "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
@@ -2418,7 +2418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:58:00.650Z",
+    "last_updated": "2026-10-06T10:44:51.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
