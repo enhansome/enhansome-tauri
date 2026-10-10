@@ -160,7 +160,7 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T06:52:25Z",
+            "last_commit": "2026-10-10T01:18:25Z",
             "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
@@ -284,7 +284,7 @@
             "open_issues": 0,
             "owner": "kasper9n",
             "repo": "tauri-sveltekit-template",
-            "stars": 194,
+            "stars": 193,
             "topics": [
               "actions",
               "svelte",
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T21:00:10Z",
-            "open_issues": 517,
+            "last_commit": "2026-10-10T08:24:12Z",
+            "open_issues": 498,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1826,
+            "stars": 1827,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -842,7 +842,7 @@
             "open_issues": 9,
             "owner": "CrossCopy",
             "repo": "tauri-plugin-clipboard",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "clipboard",
               "monitor",
@@ -1719,7 +1719,7 @@
             "id": 931847827,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T03:28:27Z",
+            "last_commit": "2026-10-09T14:21:27Z",
             "open_issues": 0,
             "owner": "aiueo13",
             "repo": "tauri-plugin-android-fs",
@@ -2155,11 +2155,11 @@
             "id": 1104967813,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T22:52:12Z",
+            "last_commit": "2026-10-09T19:21:41Z",
             "open_issues": 20,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 315,
+            "stars": 317,
             "topics": [
               "automation",
               "cli",
@@ -2418,7 +2418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:00:43.326Z",
+    "last_updated": "2026-10-10T08:28:07.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2430,7 +2430,7 @@
       "open_issues": 32,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8113,
+      "stars": 8115,
       "topics": [
         "awesome",
         "awesome-list",
