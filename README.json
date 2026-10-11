@@ -45,8 +45,8 @@
             "id": 513734670,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:15:22Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-10T13:28:54Z",
+            "open_issues": 1,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
             "stars": 691,
@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-09T06:14:50Z",
+            "last_commit": "2026-10-11T01:01:25Z",
             "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -143,7 +143,7 @@
             "open_issues": 7,
             "owner": "dannysmith",
             "repo": "tauri-template",
-            "stars": 305,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -160,7 +160,7 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T01:18:25Z",
+            "last_commit": "2026-10-11T04:50:44Z",
             "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T08:24:12Z",
-            "open_issues": 498,
+            "last_commit": "2026-10-10T19:20:10Z",
+            "open_issues": 499,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -791,7 +791,7 @@
             "open_issues": 1,
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "macos",
               "objcective-c",
@@ -1035,7 +1035,7 @@
             "open_issues": 3,
             "owner": "ayangweb",
             "repo": "tauri-plugin-macos-permissions",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "accessibility",
               "camera",
@@ -1495,7 +1495,7 @@
             "open_issues": 1,
             "owner": "smokingplaya",
             "repo": "tauri-plugin-drpc",
-            "stars": 98,
+            "stars": 97,
             "topics": [
               "discord",
               "ipc",
@@ -2107,7 +2107,7 @@
             "open_issues": 32,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 806,
+            "stars": 807,
             "topics": [
               "rspc",
               "specta",
@@ -2159,7 +2159,7 @@
             "open_issues": 20,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "automation",
               "cli",
@@ -2294,7 +2294,7 @@
             "open_issues": 2,
             "owner": "ku9nov",
             "repo": "faynoSync",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "api",
               "auto-update",
@@ -2369,13 +2369,13 @@
           "description": "Run JS/TS code with Deno Core Engine, in Tauri apps.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Run JavaScript/TypeScript code with Deno Code Engine, in Tauri apps.",
             "homepage": null,
             "id": 896314458,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-07-21T06:52:08Z",
+            "last_commit": "2026-10-11T01:09:00Z",
             "open_issues": 3,
             "owner": "typed-sigterm",
             "repo": "deno-in-tauri",
@@ -2418,7 +2418,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:28:07.579Z",
+    "last_updated": "2026-10-11T08:47:21.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2430,7 +2430,7 @@
       "open_issues": 32,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8115,
+      "stars": 8116,
       "topics": [
         "awesome",
         "awesome-list",
