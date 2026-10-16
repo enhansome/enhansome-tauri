@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-15T03:49:55Z",
+            "last_commit": "2026-10-15T20:15:35Z",
             "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -198,7 +198,7 @@
             "open_issues": 2,
             "owner": "MrLightful",
             "repo": "create-tauri-react",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "desktop",
               "react",
@@ -730,8 +730,8 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T21:52:08Z",
-            "open_issues": 473,
+            "last_commit": "2026-10-15T22:58:23Z",
+            "open_issues": 467,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1832,
@@ -755,11 +755,11 @@
             "id": 433520643,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T13:37:21Z",
+            "last_commit": "2026-10-15T18:48:34Z",
             "open_issues": 19,
             "owner": "tauri-apps",
             "repo": "window-vibrancy",
-            "stars": 1038,
+            "stars": 1039,
             "topics": [
               "acrylic",
               "blur",
@@ -925,7 +925,7 @@
             "open_issues": 3,
             "owner": "ferreira-tb",
             "repo": "tauri-plugin-prevent-default",
-            "stars": 235,
+            "stars": 236,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1775,8 +1775,8 @@
             "id": 1043020066,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T07:10:16Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-16T05:22:32Z",
+            "open_issues": 1,
             "owner": "DraviaVemal",
             "repo": "tauri-remote-ui",
             "stars": 33,
@@ -1800,7 +1800,7 @@
             "open_issues": 0,
             "owner": "luis3132",
             "repo": "tauri-plugin-thermal-printer",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "escpos",
               "plugin",
@@ -2107,8 +2107,8 @@
             "id": 562488334,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-14T19:19:08Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-15T08:27:37Z",
+            "open_issues": 32,
             "owner": "specta-rs",
             "repo": "tauri-specta",
             "stars": 808,
@@ -2163,7 +2163,7 @@
             "open_issues": 19,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 319,
+            "stars": 321,
             "topics": [
               "automation",
               "cli",
@@ -2267,7 +2267,7 @@
             "open_issues": 1,
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 174,
+            "stars": 175,
             "topics": [
               "chrome-extension",
               "elysia",
@@ -2422,7 +2422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:24:01.344Z",
+    "last_updated": "2026-10-16T07:07:34.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2434,7 +2434,7 @@
       "open_issues": 34,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8120,
+      "stars": 8124,
       "topics": [
         "awesome",
         "awesome-list",
