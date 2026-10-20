@@ -25,7 +25,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 * [Introduction](https://v2.tauri.app/start/) ![officially maintained] - Official introduction to Tauri.
 * [Getting Started](https://v2.tauri.app/start/prerequisites/) ![officially maintained] - Official getting started with Tauri docs.
-* [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) ⭐ 1,640 | 🐛 27 | 🌐 Rust | 📅 2026-10-17 ![officially maintained] - Rapidly scaffold your Tauri app.
+* [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) ⭐ 1,640 | 🐛 27 | 🌐 Rust | 📅 2026-10-19 ![officially maintained] - Rapidly scaffold your Tauri app.
 * [Auto-Updates with Tauri v2](https://docs.crabnebula.dev/guides/auto-updates-tauri) ![v2] - Setup auto-updates with Tauri and CrabNebula Cloud.
 * [Create Tauri App with React](https://www.youtube.com/watch?v=zawhqLA7N9Y\&ab_channel=chrisbiscardi) ![youtube] ![v1] - Chris Biscardi shows how easy it is to wire up a Rust crate with a JS module and communicate between them.
 * [Publish to Apple's App Store](https://thinkgo.io/post/2023/02/publish_tauri_to_apples_app_store/) ![v1] - Details all the steps needed to publish your Mac app to the app store. Includes a sample bash script.
@@ -72,7 +72,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ## Plugins
 
-* [Official Plugins](https://github.com/tauri-apps/plugins-workspace) ⭐ 1,833 | 🐛 462 | 🌐 Rust | 📅 2026-10-18 ![officially maintained] - This repository contains all the plugins maintained by the Tauri team. This includes plugins for NFC, logging, notifications, and more.
+* [Official Plugins](https://github.com/tauri-apps/plugins-workspace) ⭐ 1,833 | 🐛 464 | 🌐 Rust | 📅 2026-10-19 ![officially maintained] - This repository contains all the plugins maintained by the Tauri team. This includes plugins for NFC, logging, notifications, and more.
 * [window-vibrancy](https://github.com/tauri-apps/window-vibrancy) ⭐ 1,039 | 🐛 19 | 🌐 Rust | 📅 2026-10-15 ![officially maintained] - Make your windows vibrant (v1 only - added to Tauri in v2).
 * [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) ⭐ 427 | 🐛 1 | 🌐 Rust | 📅 2026-10-08 ![v2] - Convert a window to panel.
 * [taurpc](https://github.com/MatsDK/TauRPC) ⭐ 332 | 🐛 2 | 🌐 Rust | 📅 2026-07-03 ![v2] - Typesafe IPC wrapper for Tauri commands and events.
@@ -80,7 +80,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [window-shadows](https://github.com/tauri-apps/window-shadows) ⚠️ Archived ![officially maintained] - Add native shadows to your windows in Tauri (v1 only - added to Tauri in v2).
 * [tauri-plugin-context-menu](https://github.com/c2r0b/tauri-plugin-context-menu) ⭐ 238 | 🐛 0 | 🌐 Rust | 📅 2024-10-26 ![v1] - Native context menu.
 * [tauri-plugin-prevent-default](https://github.com/ferreira-tb/tauri-plugin-prevent-default) ⭐ 236 | 🐛 3 | 🌐 Rust | 📅 2026-10-05 ![v2] - Disable default browser shortcuts.
-* [sentry-tauri](https://github.com/timfish/sentry-tauri) ⭐ 234 | 🐛 11 | 🌐 Rust | 📅 2026-10-13 ![v2] - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
+* [sentry-tauri](https://github.com/timfish/sentry-tauri) ⭐ 234 | 🐛 5 | 🌐 Rust | 📅 2026-10-19 ![v2] - Capture JavaScript errors, Rust panics and native crash minidumps to Sentry.
 * [tauri-plugin-blec](https://github.com/MnlPhlp/tauri-plugin-blec) ⭐ 229 | 🐛 10 | 🌐 Rust | 📅 2026-10-14 ![v2] - Cross platform Bluetooth Low Energy client based on `btleplug`.
 * [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) ⭐ 187 | 🐛 0 | 🌐 Rust | 📅 2026-06-27 ![v2] - Custom invoke system that leverages WebSocket.
 * [tauri-plugin-serialplugin](https://github.com/s00d/tauri-plugin-serialplugin) ⭐ 177 | 🐛 0 | 🌐 Rust | 📅 2026-10-14 ![v2] - Cross-compatible serialport communication tool.
@@ -110,9 +110,9 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [tauri-plugin-auth](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-auth) ⭐ 57 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 ![v2] - Auth plugin for iOS that uses ASWebAuthenticationSession for authentication, which allows keychain access.
 * [tauri-plugin-iap](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-iap) ⭐ 57 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 ![v2] - In-app-purchase plugin for iOS that allows fetching, purchasing, and restoring of products.
 * [tauri-plugin-ota](https://github.com/inKibra/tauri-plugins/tree/main/packages/tauri-plugin-ota) ⭐ 57 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-08 ![v2] - OTA plugin for applications that just want to continuously deliever new JavaScript code based on a manfiest.
-* [tauri-plugin-android-fs](https://github.com/aiueo13/tauri-plugin-android-fs) ⭐ 39 | 🐛 0 | 🌐 Rust | 📅 2026-10-11 ![v2] - Access the file system on Android.
+* [tauri-plugin-android-fs](https://github.com/aiueo13/tauri-plugin-android-fs) ⭐ 40 | 🐛 1 | 🌐 Rust | 📅 2026-10-11 ![v2] - Access the file system on Android.
 * [tauri-plugin-device-info](https://github.com/edisdev/tauri-plugin-device-info) ⭐ 37 | 🐛 0 | 🌐 Rust | 📅 2026-08-23 ![v2] - Access comprehensive device information including battery, network, storage, display, and system details across desktop and mobile.
-* [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) ⭐ 33 | 🐛 2 | 🌐 Rust | 📅 2026-10-19 ![v2] - Make you web app bundle available as web page for test and development.
+* [tauri-remote-ui](https://github.com/DraviaVemal/tauri-remote-ui) ⭐ 33 | 🐛 1 | 🌐 Rust | 📅 2026-10-19 ![v2] - Make you web app bundle available as web page for test and development.
 * [tauri-plugin-thermal-printer](https://github.com/luis3132/tauri-plugin-thermal-printer) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 ![v2] - Add support to handle thermal printers.
 * [tauri-plugin-widgets](https://github.com/s00d/tauri-plugin-widgets) ⭐ 27 | 🐛 0 | 🌐 Rust | 📅 2026-10-04 ![v2] - Cross-platform home-screen widgets with WidgetKit, AppWidgetManager, Adaptive Cards, and desktop webviews.
 * [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) ⭐ 23 | 🐛 5 | 🌐 Rust | 📅 2024-03-17 ![v1] - Block the power save functionality in the OS.
@@ -131,7 +131,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [Astrodon](https://github.com/astrodon/astrodon) ⭐ 1,021 | 🐛 11 | 🌐 TypeScript | 📅 2023-03-26 ![v1] - Make Tauri desktop apps with Deno.
 * [Tauri Specta](https://github.com/oscartbeaumont/tauri-specta) ⭐ 810 | 🐛 28 | 🌐 Rust | 📅 2026-10-15 ![v2] - Completely typesafe Tauri commands.
 * [tauri-macos-menubar-app-example](https://github.com/ahkohd/tauri-macos-menubar-app-example) ⭐ 388 | 🐛 1 | 🌐 Rust | 📅 2026-09-19telemetry - Example macOS Menubar app project.
-* [tauri-mcp-server](https://github.com/hypothesi/mcp-server-tauri) ⭐ 325 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-13 ![v2] - MCP server and plugin for rapid development and debugging.
+* [tauri-mcp-server](https://github.com/hypothesi/mcp-server-tauri) ⭐ 325 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-13 ![v2] - MCP server and plugin for rapid development and debugging.
 * [tauri-macos-spotlight-example](https://github.com/ahkohd/tauri-macos-spotlight-example) ⭐ 296 | 🐛 1 | 🌐 Rust | 📅 2026-09-19telemetry - Example macOS Spotlight app project.
 * [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) ⭐ 292 | 🐛 3 | 🌐 TypeScript | 📅 2026-06-11 ![v2] - Integrate Tauri in a Vite project to build cross-platform apps.
 * [axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) ⭐ 191 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-10 ![v2] - Makes it easy to use Axios in Tauri, `axios` adapter for the `@tauri-apps/api/http` module.
@@ -140,7 +140,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 * [svelte-tauri-filedrop](https://github.com/probablykasper/svelte-tauri-filedrop) ⭐ 134 | 🐛 1 | 🌐 Svelte | 📅 2026-09-04 ![v2] - File drop handling component for Svelte.
 * [tauri-htmx-extension](https://github.com/ChristianPavilonis/tauri-htmx-extension) ⭐ 123 | 🐛 4 | 🌐 JavaScript | 📅 2025-02-11 ![v2] - Extention for using htmx with Tauri apis.
 * [Deno in Tauri](https://github.com/typed-sigterm/deno-in-tauri) ⚠️ Archived ![v2] - Run JS/TS code with Deno Core Engine, in Tauri apps.
-* [tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) ⭐ 36 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-13 ![v2] - One-click deploy a Tauri Update Server to Cloudflare.
+* [tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) ⭐ 36 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-19 ![v2] - One-click deploy a Tauri Update Server to Cloudflare.
 * [axios-tauri-adapter](https://git.kaki87.net/KaKi87/axios-tauri-adapter) ![v1] - `axios` adapter for the `@tauri-apps/api/http` module.
 * [ngx-tauri](https://codeberg.org/crapsilon/ngx-tauri) ![v1] - Small lib to wrap around functions from tauri modules, to integrate easier with Angular.
 * [tauri-update-server](https://git.kaki87.net/KaKi87/tauri-update-server) ![v1] - Automatically interface the Tauri updater with git repository releases.
@@ -159,4 +159,4 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
