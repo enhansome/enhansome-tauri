@@ -49,7 +49,7 @@
             "open_issues": 1,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
-            "stars": 691,
+            "stars": 692,
             "topics": [
               "biome",
               "biomejs",
@@ -111,7 +111,7 @@
             "open_issues": 1,
             "owner": "elibroftw",
             "repo": "modern-desktop-app-template",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "desktop-app",
               "gui",
@@ -143,7 +143,7 @@
             "open_issues": 7,
             "owner": "dannysmith",
             "repo": "tauri-template",
-            "stars": 309,
+            "stars": 310,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -160,7 +160,7 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T07:02:31Z",
+            "last_commit": "2026-10-21T20:18:07Z",
             "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
@@ -198,7 +198,7 @@
             "open_issues": 2,
             "owner": "MrLightful",
             "repo": "create-tauri-react",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "desktop",
               "react",
@@ -601,11 +601,11 @@
             "id": 1126651275,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T00:00:19Z",
+            "last_commit": "2026-10-21T23:59:45Z",
             "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-tanstack-start-react-template",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "biomejs",
               "react",
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T23:26:58Z",
-            "open_issues": 466,
+            "last_commit": "2026-10-21T21:26:31Z",
+            "open_issues": 469,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1834,
+            "stars": 1835,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -1057,6 +1057,34 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-plugin-python",
+          "description": "Use python in your backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tauri plugin to run python code in the backend instead of rust",
+            "homepage": null,
+            "id": 903013866,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-06-20T10:32:17Z",
+            "open_issues": 3,
+            "owner": "marcomq",
+            "repo": "tauri-plugin-python",
+            "stars": 163,
+            "topics": [
+              "python",
+              "rust",
+              "tauri",
+              "tauri-plugin",
+              "tauri2",
+              "webview"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-graphql",
           "description": "Type-safe IPC for Tauri using GraphQL.",
           "children": [],
@@ -1079,34 +1107,6 @@
               "tauri",
               "tauri-plugin",
               "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-plugin-python",
-          "description": "Use python in your backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tauri plugin to run python code in the backend instead of rust",
-            "homepage": null,
-            "id": 903013866,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-06-20T10:32:17Z",
-            "open_issues": 3,
-            "owner": "marcomq",
-            "repo": "tauri-plugin-python",
-            "stars": 162,
-            "topics": [
-              "python",
-              "rust",
-              "tauri",
-              "tauri-plugin",
-              "tauri2",
-              "webview"
             ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1808,7 +1808,7 @@
             "open_issues": 0,
             "owner": "luis3132",
             "repo": "tauri-plugin-thermal-printer",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "escpos",
               "plugin",
@@ -2115,8 +2115,8 @@
             "id": 562488334,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-21T06:48:30Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-22T07:14:08Z",
+            "open_issues": 9,
             "owner": "specta-rs",
             "repo": "tauri-specta",
             "stars": 811,
@@ -2411,8 +2411,8 @@
             "id": 799006165,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T00:07:41Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-21T14:21:46Z",
+            "open_issues": 1,
             "owner": "mackenly",
             "repo": "tauri-update-cloudflare",
             "stars": 36,
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T07:36:18.218Z",
+    "last_updated": "2026-10-22T07:32:23.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2439,10 +2439,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-24T10:14:22Z",
-      "open_issues": 34,
+      "open_issues": 35,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8138,
+      "stars": 8139,
       "topics": [
         "awesome",
         "awesome-list",
