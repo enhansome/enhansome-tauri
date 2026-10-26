@@ -448,27 +448,6 @@
         },
         {
           "node_type": "item",
-          "title": "tauri-vue-template",
-          "description": "Another vue template with Javascript, Vite, Pinia, Vue Router and Github Actions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Tauri template that comes with a few very useful features pre configured",
-            "homepage": null,
-            "id": 674811836,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-03-19T05:03:50Z",
-            "open_issues": 0,
-            "owner": "skymen",
-            "repo": "tauri-vue-template",
-            "stars": 103,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
           "title": "oxide-dock",
           "description": "Vue 3 with Vite, Tailwind CSS, typed Rust bridge, Vitest, Playwright, coverage-gated Rust tests, and automated cross-platform releases via .",
           "children": [],
@@ -483,7 +462,7 @@
             "open_issues": 5,
             "owner": "fridzema",
             "repo": "oxide-dock",
-            "stars": 101,
+            "stars": 103,
             "topics": [
               "boilerplate",
               "bun",
@@ -502,6 +481,27 @@
               "vue",
               "vue3"
             ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tauri-vue-template",
+          "description": "Another vue template with Javascript, Vite, Pinia, Vue Router and Github Actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Tauri template that comes with a few very useful features pre configured",
+            "homepage": null,
+            "id": 674811836,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-03-19T05:03:50Z",
+            "open_issues": 0,
+            "owner": "skymen",
+            "repo": "tauri-vue-template",
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T22:21:05Z",
+            "last_commit": "2026-10-26T04:11:18Z",
             "open_issues": 476,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1836,
+            "stars": 1837,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -759,7 +759,7 @@
             "open_issues": 19,
             "owner": "tauri-apps",
             "repo": "window-vibrancy",
-            "stars": 1039,
+            "stars": 1038,
             "topics": [
               "acrylic",
               "blur",
@@ -787,8 +787,8 @@
             "id": 616317817,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T00:48:52Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-25T22:43:05Z",
+            "open_issues": 1,
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
             "stars": 427,
@@ -1474,8 +1474,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T07:31:02Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-26T07:45:23Z",
+            "open_issues": 40,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 100,
@@ -1637,8 +1637,8 @@
             "id": 1028523824,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-18T22:03:42Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-25T22:04:09Z",
+            "open_issues": 15,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 83,
@@ -1804,7 +1804,7 @@
             "id": 1147675121,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T15:10:29Z",
+            "last_commit": "2026-10-26T03:48:38Z",
             "open_issues": 0,
             "owner": "luis3132",
             "repo": "tauri-plugin-thermal-printer",
@@ -2119,7 +2119,7 @@
             "open_issues": 3,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 812,
+            "stars": 813,
             "topics": [
               "rspc",
               "specta",
@@ -2171,7 +2171,7 @@
             "open_issues": 19,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 326,
+            "stars": 329,
             "topics": [
               "automation",
               "cli",
@@ -2246,7 +2246,7 @@
             "open_issues": 7,
             "owner": "persiliao",
             "repo": "axios-tauri-api-adapter",
-            "stars": 191,
+            "stars": 190,
             "topics": [
               "api",
               "axios",
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:33:59.737Z",
+    "last_updated": "2026-10-26T07:46:07.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2442,7 +2442,7 @@
       "open_issues": 36,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8142,
+      "stars": 8146,
       "topics": [
         "awesome",
         "awesome-list",
