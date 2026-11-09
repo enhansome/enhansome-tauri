@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 872,
+            "stars": 873,
             "topics": [
               "nuxt",
               "nuxt4",
@@ -78,8 +78,8 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-06T03:45:01Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-09T05:18:46Z",
+            "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
             "stars": 492,
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T11:13:22Z",
-            "open_issues": 490,
+            "last_commit": "2026-11-09T09:39:54Z",
+            "open_issues": 482,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1841,
+            "stars": 1843,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -1006,11 +1006,11 @@
           "repo_info": {
             "archived": false,
             "description": "A comprehensive plugin for Tauri applications to communicate with serial ports. This plugin provides a complete API for reading from and writing to serial devices, with support for various configuration options and control signals.",
-            "homepage": "https://crates.io/crates/tauri-plugin-serialplugin",
+            "homepage": "https://s00d.github.io/tauri-plugin-serialplugin/",
             "id": 752736476,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T09:21:24Z",
+            "last_commit": "2026-11-08T18:53:06Z",
             "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-serialplugin",
@@ -1057,6 +1057,34 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-plugin-python",
+          "description": "Use python in your backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tauri plugin to run python code in the backend instead of rust",
+            "homepage": null,
+            "id": 903013866,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-06-20T10:32:17Z",
+            "open_issues": 3,
+            "owner": "marcomq",
+            "repo": "tauri-plugin-python",
+            "stars": 163,
+            "topics": [
+              "python",
+              "rust",
+              "tauri",
+              "tauri-plugin",
+              "tauri2",
+              "webview"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-graphql",
           "description": "Type-safe IPC for Tauri using GraphQL.",
           "children": [],
@@ -1079,34 +1107,6 @@
               "tauri",
               "tauri-plugin",
               "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-plugin-python",
-          "description": "Use python in your backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tauri plugin to run python code in the backend instead of rust",
-            "homepage": null,
-            "id": 903013866,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-06-20T10:32:17Z",
-            "open_issues": 3,
-            "owner": "marcomq",
-            "repo": "tauri-plugin-python",
-            "stars": 162,
-            "topics": [
-              "python",
-              "rust",
-              "tauri",
-              "tauri-plugin",
-              "tauri2",
-              "webview"
             ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1453,8 +1453,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T08:34:12Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-09T08:20:33Z",
+            "open_issues": 0,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 102,
@@ -1613,7 +1613,7 @@
             "id": 889313166,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2024-11-21T16:50:20Z",
+            "last_commit": "2026-11-08T11:15:49Z",
             "open_issues": 1,
             "owner": "ecmel",
             "repo": "tauri-plugin-view",
@@ -1637,8 +1637,8 @@
             "id": 1028523824,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-07T16:48:38Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-08T21:44:40Z",
+            "open_issues": 4,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
             "stars": 83,
@@ -1834,7 +1834,7 @@
             "id": 1168563457,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:36:16Z",
+            "last_commit": "2026-11-09T09:23:15Z",
             "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-widgets",
@@ -2275,7 +2275,7 @@
             "open_issues": 1,
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "chrome-extension",
               "elysia",
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T08:57:58.789Z",
+    "last_updated": "2026-11-09T09:45:20.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2442,7 +2442,7 @@
       "open_issues": 39,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8163,
+      "stars": 8166,
       "topics": [
         "awesome",
         "awesome-list",
