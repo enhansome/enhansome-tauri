@@ -45,7 +45,7 @@
             "id": 513734670,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T13:40:54Z",
+            "last_commit": "2026-11-14T13:24:27Z",
             "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
@@ -78,11 +78,11 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-14T04:51:59Z",
+            "last_commit": "2026-11-15T02:34:13Z",
             "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "rust",
               "tailwindcss",
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "skymen",
             "repo": "tauri-vue-template",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1073,7 +1073,7 @@
             "open_issues": 1,
             "owner": "marcomq",
             "repo": "tauri-plugin-python",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "python",
               "rust",
@@ -1428,8 +1428,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T08:52:31Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-15T09:20:44Z",
+            "open_issues": 4,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 104,
@@ -1836,7 +1836,7 @@
             "id": 1168563457,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T11:26:17Z",
+            "last_commit": "2026-11-14T12:49:59Z",
             "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-widgets",
@@ -2121,7 +2121,7 @@
             "open_issues": 2,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 816,
+            "stars": 817,
             "topics": [
               "rspc",
               "specta",
@@ -2308,7 +2308,7 @@
             "open_issues": 3,
             "owner": "ku9nov",
             "repo": "faynoSync",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "api",
               "auto-update",
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:56:52.806Z",
+    "last_updated": "2026-11-15T09:20:58.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2444,7 +2444,7 @@
       "open_issues": 38,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8176,
+      "stars": 8179,
       "topics": [
         "awesome",
         "awesome-list",
