@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 874,
+            "stars": 872,
             "topics": [
               "nuxt",
               "nuxt4",
@@ -45,8 +45,8 @@
             "id": 513734670,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T13:24:27Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-17T01:17:40Z",
+            "open_issues": 1,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
             "stars": 693,
@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-15T10:50:35Z",
+            "last_commit": "2026-11-17T01:36:04Z",
             "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -139,8 +139,8 @@
             "id": 1029852994,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T21:30:43Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-16T18:21:10Z",
+            "open_issues": 2,
             "owner": "dannysmith",
             "repo": "tauri-template",
             "stars": 317,
@@ -160,8 +160,8 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T06:11:17Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-17T06:26:41Z",
+            "open_issues": 3,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
             "stars": 302,
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T07:36:26Z",
+            "last_commit": "2026-11-16T21:02:11Z",
             "open_issues": 484,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1843,
+            "stars": 1842,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -842,7 +842,7 @@
             "open_issues": 9,
             "owner": "CrossCopy",
             "repo": "tauri-plugin-clipboard",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "clipboard",
               "monitor",
@@ -946,7 +946,7 @@
             "open_issues": 5,
             "owner": "getsentry",
             "repo": "sentry-tauri",
-            "stars": 235,
+            "stars": 233,
             "topics": [
               "tag-production"
             ]
@@ -990,7 +990,7 @@
             "open_issues": 0,
             "owner": "ahkohd",
             "repo": "tauri-awesome-rpc",
-            "stars": 188,
+            "stars": 186,
             "topics": [
               "gui",
               "rust",
@@ -1172,6 +1172,32 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-plugin-screenshots",
+          "description": "Get screenshots of windows and monitors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Get screenshots of windows and monitors.",
+            "homepage": "https://crates.io/crates/tauri-plugin-screenshots",
+            "id": 940048857,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2025-05-01T03:08:06Z",
+            "open_issues": 2,
+            "owner": "ayangweb",
+            "repo": "tauri-plugin-screenshots",
+            "stars": 146,
+            "topics": [
+              "rust",
+              "screenshots",
+              "tauri",
+              "tauri-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-system-info",
           "description": "Detailed system information.",
           "children": [],
@@ -1191,32 +1217,6 @@
               "rust",
               "tauri",
               "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-plugin-screenshots",
-          "description": "Get screenshots of windows and monitors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Get screenshots of windows and monitors.",
-            "homepage": "https://crates.io/crates/tauri-plugin-screenshots",
-            "id": 940048857,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2025-05-01T03:08:06Z",
-            "open_issues": 2,
-            "owner": "ayangweb",
-            "repo": "tauri-plugin-screenshots",
-            "stars": 145,
-            "topics": [
-              "rust",
-              "screenshots",
-              "tauri",
-              "tauri-plugin"
             ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1428,8 +1428,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T09:37:18Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-17T09:44:15Z",
+            "open_issues": 3,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 105,
@@ -1485,34 +1485,6 @@
         },
         {
           "node_type": "item",
-          "title": "tauri-plugin-drpc",
-          "description": "Discord RPC support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A plugin for Tauri that allows you to control Discord Rich Presence.",
-            "homepage": null,
-            "id": 922588148,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2025-04-12T02:27:13Z",
-            "open_issues": 1,
-            "owner": "smokingplaya",
-            "repo": "tauri-plugin-drpc",
-            "stars": 100,
-            "topics": [
-              "discord",
-              "ipc",
-              "rpc",
-              "rust",
-              "tauri",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
           "title": "tauri-plugin-tcp",
           "description": "TCP socket support.",
           "children": [],
@@ -1529,6 +1501,34 @@
             "repo": "tauri-plugin-tcp",
             "stars": 100,
             "topics": []
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tauri-plugin-drpc",
+          "description": "Discord RPC support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A plugin for Tauri that allows you to control Discord Rich Presence.",
+            "homepage": null,
+            "id": 922588148,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2025-04-12T02:27:13Z",
+            "open_issues": 1,
+            "owner": "smokingplaya",
+            "repo": "tauri-plugin-drpc",
+            "stars": 99,
+            "topics": [
+              "discord",
+              "ipc",
+              "rpc",
+              "rust",
+              "tauri",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1893,7 +1893,7 @@
             "open_issues": 1,
             "owner": "HuakunShen",
             "repo": "tauri-plugin-js",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "electron",
               "kkrpc",
@@ -2093,7 +2093,7 @@
             "open_issues": 11,
             "owner": "astrodon",
             "repo": "astrodon",
-            "stars": 1019,
+            "stars": 1018,
             "topics": [
               "astrodon",
               "deno",
@@ -2117,11 +2117,11 @@
             "id": 562488334,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-13T06:06:08Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-17T06:19:38Z",
+            "open_issues": 6,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "rspc",
               "specta",
@@ -2173,7 +2173,7 @@
             "open_issues": 21,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "automation",
               "cli",
@@ -2277,7 +2277,7 @@
             "open_issues": 4,
             "owner": "kunkunsh",
             "repo": "kkrpc",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "chrome-extension",
               "elysia",
@@ -2304,8 +2304,8 @@
             "id": 588595239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T15:29:14Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-17T09:24:27Z",
+            "open_issues": 0,
             "owner": "ku9nov",
             "repo": "faynoSync",
             "stars": 161,
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:38:06.470Z",
+    "last_updated": "2026-11-17T10:41:24.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2444,7 +2444,7 @@
       "open_issues": 38,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8180,
+      "stars": 8177,
       "topics": [
         "awesome",
         "awesome-list",
