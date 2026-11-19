@@ -160,7 +160,7 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T09:06:05Z",
+            "last_commit": "2026-11-19T08:50:05Z",
             "open_issues": 2,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
@@ -437,7 +437,7 @@
             "open_issues": 5,
             "owner": "fridzema",
             "repo": "oxide-dock",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "boilerplate",
               "bun",
@@ -601,11 +601,11 @@
             "id": 1126651275,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T00:00:11Z",
+            "last_commit": "2026-11-19T00:03:49Z",
             "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-tanstack-start-react-template",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "biomejs",
               "react",
@@ -730,11 +730,11 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T09:55:35Z",
-            "open_issues": 482,
+            "last_commit": "2026-11-19T09:41:12Z",
+            "open_issues": 481,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
-            "stars": 1843,
+            "stars": 1844,
             "topics": [
               "hacktoberfest",
               "tauri",
@@ -818,7 +818,7 @@
             "open_issues": 3,
             "owner": "MatsDK",
             "repo": "TauRPC",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "rust",
               "tauri"
@@ -1016,7 +1016,7 @@
             "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-serialplugin",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "plugin",
               "serialport",
@@ -1391,6 +1391,46 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-plugin-velesdb",
+          "description": "Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the evidence path behind every recall. No cloud, no glue code — runs on server, browser, mobile and desktop.",
+            "homepage": "https://velesdb.com",
+            "id": 1118411810,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-19T09:56:51Z",
+            "open_issues": 7,
+            "owner": "cyberlife-coder",
+            "repo": "VelesDB",
+            "stars": 106,
+            "topics": [
+              "ai",
+              "ai-memory",
+              "all-in-one-databse",
+              "avx512",
+              "columnstore-database",
+              "embeddings",
+              "graph-database",
+              "hnsw",
+              "local-first",
+              "machine-learning",
+              "mem0",
+              "mem0-alternative",
+              "rag",
+              "rust",
+              "search-engine",
+              "simd",
+              "vector-database",
+              "zep"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-sharesheet",
           "description": "Share content to other apps via the Android Sharesheet or iOS Share Pane.",
           "children": [],
@@ -1412,46 +1452,6 @@
               "tauri",
               "tauri-plugin",
               "tauri-v2"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-plugin-velesdb",
-          "description": "Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the evidence path behind every recall. No cloud, no glue code — runs on server, browser, mobile and desktop.",
-            "homepage": "https://velesdb.com",
-            "id": 1118411810,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-18T10:04:35Z",
-            "open_issues": 3,
-            "owner": "cyberlife-coder",
-            "repo": "VelesDB",
-            "stars": 105,
-            "topics": [
-              "ai",
-              "ai-memory",
-              "all-in-one-databse",
-              "avx512",
-              "columnstore-database",
-              "embeddings",
-              "graph-database",
-              "hnsw",
-              "local-first",
-              "machine-learning",
-              "mem0",
-              "mem0-alternative",
-              "rag",
-              "rust",
-              "search-engine",
-              "simd",
-              "vector-database",
-              "zep"
             ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 1,
             "owner": "kuyoonjo",
             "repo": "tauri-plugin-mqtt",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1754,8 +1754,8 @@
             "id": 1141674043,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T22:21:53Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T22:20:08Z",
+            "open_issues": 0,
             "owner": "edisdev",
             "repo": "tauri-plugin-device-info",
             "stars": 37,
@@ -2117,11 +2117,11 @@
             "id": 562488334,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-18T09:25:48Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-19T08:54:20Z",
+            "open_issues": 2,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 819,
+            "stars": 820,
             "topics": [
               "rspc",
               "specta",
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:06:19.527Z",
+    "last_updated": "2026-11-19T10:17:20.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2444,7 +2444,7 @@
       "open_issues": 38,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8177,
+      "stars": 8180,
       "topics": [
         "awesome",
         "awesome-list",
