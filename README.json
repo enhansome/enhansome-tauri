@@ -49,7 +49,7 @@
             "open_issues": 1,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
-            "stars": 693,
+            "stars": 692,
             "topics": [
               "biome",
               "biomejs",
@@ -78,11 +78,11 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-18T03:11:42Z",
+            "last_commit": "2026-11-20T04:03:34Z",
             "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
-            "stars": 494,
+            "stars": 493,
             "topics": [
               "rust",
               "tailwindcss",
@@ -111,7 +111,7 @@
             "open_issues": 1,
             "owner": "elibroftw",
             "repo": "modern-desktop-app-template",
-            "stars": 370,
+            "stars": 369,
             "topics": [
               "desktop-app",
               "gui",
@@ -143,7 +143,7 @@
             "open_issues": 2,
             "owner": "dannysmith",
             "repo": "tauri-template",
-            "stars": 318,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -160,11 +160,11 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T08:50:05Z",
+            "last_commit": "2026-11-20T05:13:26Z",
             "open_issues": 2,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
-            "stars": 302,
+            "stars": 301,
             "topics": [
               "eslint",
               "prettier",
@@ -374,27 +374,6 @@
         },
         {
           "node_type": "item",
-          "title": "rust-full-stack-with-authentication-template",
-          "description": "Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A template with a robust authentication solution for fullstack development entirely in Rust",
-            "homepage": null,
-            "id": 769662997,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2025-10-18T15:41:46Z",
-            "open_issues": 0,
-            "owner": "sollambert",
-            "repo": "rust-full-stack-with-auth-template",
-            "stars": 114,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
           "title": "tauri-sveltekit-template",
           "description": "SvelteKit Admin template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.",
           "children": [],
@@ -418,6 +397,27 @@
               "tailwindcss",
               "tauri"
             ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rust-full-stack-with-authentication-template",
+          "description": "Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A template with a robust authentication solution for fullstack development entirely in Rust",
+            "homepage": null,
+            "id": 769662997,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2025-10-18T15:41:46Z",
+            "open_issues": 0,
+            "owner": "sollambert",
+            "repo": "rust-full-stack-with-auth-template",
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "skymen",
             "repo": "tauri-vue-template",
-            "stars": 104,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -730,8 +730,8 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T09:41:12Z",
-            "open_issues": 481,
+            "last_commit": "2026-11-20T09:48:44Z",
+            "open_issues": 483,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1844,
@@ -791,7 +791,7 @@
             "open_issues": 2,
             "owner": "ahkohd",
             "repo": "tauri-nspanel",
-            "stars": 428,
+            "stars": 426,
             "topics": [
               "macos",
               "objcective-c",
@@ -818,7 +818,7 @@
             "open_issues": 3,
             "owner": "MatsDK",
             "repo": "TauRPC",
-            "stars": 333,
+            "stars": 332,
             "topics": [
               "rust",
               "tauri"
@@ -842,7 +842,7 @@
             "open_issues": 9,
             "owner": "CrossCopy",
             "repo": "tauri-plugin-clipboard",
-            "stars": 316,
+            "stars": 315,
             "topics": [
               "clipboard",
               "monitor",
@@ -1101,7 +1101,7 @@
             "open_issues": 55,
             "owner": "JonasKruckenberg",
             "repo": "tauri-plugin-graphql",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "graphql",
               "javascript",
@@ -1338,7 +1338,7 @@
             "open_issues": 3,
             "owner": "Taiizor",
             "repo": "tauri-plugin-cache",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "auto-cleanup",
               "cache",
@@ -1391,46 +1391,6 @@
         },
         {
           "node_type": "item",
-          "title": "tauri-plugin-velesdb",
-          "description": "Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the evidence path behind every recall. No cloud, no glue code — runs on server, browser, mobile and desktop.",
-            "homepage": "https://velesdb.com",
-            "id": 1118411810,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-19T09:56:51Z",
-            "open_issues": 7,
-            "owner": "cyberlife-coder",
-            "repo": "VelesDB",
-            "stars": 106,
-            "topics": [
-              "ai",
-              "ai-memory",
-              "all-in-one-databse",
-              "avx512",
-              "columnstore-database",
-              "embeddings",
-              "graph-database",
-              "hnsw",
-              "local-first",
-              "machine-learning",
-              "mem0",
-              "mem0-alternative",
-              "rag",
-              "rust",
-              "search-engine",
-              "simd",
-              "vector-database",
-              "zep"
-            ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
           "title": "tauri-plugin-sharesheet",
           "description": "Share content to other apps via the Android Sharesheet or iOS Share Pane.",
           "children": [],
@@ -1452,6 +1412,46 @@
               "tauri",
               "tauri-plugin",
               "tauri-v2"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tauri-plugin-velesdb",
+          "description": "Native vector database plugin. 70µs semantic search, ≥95% recall, hybrid BM25+vector, offline-first, full ecosystem integrations and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the evidence path behind every recall. No cloud, no glue code — runs on server, browser, mobile and desktop.",
+            "homepage": "https://velesdb.com",
+            "id": 1118411810,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-20T09:26:43Z",
+            "open_issues": 7,
+            "owner": "cyberlife-coder",
+            "repo": "VelesDB",
+            "stars": 105,
+            "topics": [
+              "ai",
+              "ai-memory",
+              "all-in-one-databse",
+              "avx512",
+              "columnstore-database",
+              "embeddings",
+              "graph-database",
+              "hnsw",
+              "local-first",
+              "machine-learning",
+              "mem0",
+              "mem0-alternative",
+              "rag",
+              "rust",
+              "search-engine",
+              "simd",
+              "vector-database",
+              "zep"
             ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -1643,7 +1643,7 @@
             "open_issues": 8,
             "owner": "Choochmeque",
             "repo": "tauri-plugin-iap",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "google-play-billing",
               "iap",
@@ -2093,7 +2093,7 @@
             "open_issues": 11,
             "owner": "astrodon",
             "repo": "astrodon",
-            "stars": 1018,
+            "stars": 1017,
             "topics": [
               "astrodon",
               "deno",
@@ -2117,11 +2117,11 @@
             "id": 562488334,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-19T08:54:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-20T09:47:09Z",
+            "open_issues": 3,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 820,
+            "stars": 822,
             "topics": [
               "rspc",
               "specta",
@@ -2147,7 +2147,7 @@
             "open_issues": 1,
             "owner": "ahkohd",
             "repo": "tauri-macos-menubar-app-example",
-            "stars": 390,
+            "stars": 389,
             "topics": [
               "macos",
               "rust",
@@ -2173,7 +2173,7 @@
             "open_issues": 21,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "automation",
               "cli",
@@ -2308,7 +2308,7 @@
             "open_issues": 0,
             "owner": "ku9nov",
             "repo": "faynoSync",
-            "stars": 161,
+            "stars": 159,
             "topics": [
               "api",
               "auto-update",
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:17:20.419Z",
+    "last_updated": "2026-11-20T09:59:01.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2441,10 +2441,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-24T10:14:22Z",
-      "open_issues": 38,
+      "open_issues": 39,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8180,
+      "stars": 8182,
       "topics": [
         "awesome",
         "awesome-list",
