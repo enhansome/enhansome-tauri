@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "NicolaSpadari",
             "repo": "nuxtor",
-            "stars": 873,
+            "stars": 872,
             "topics": [
               "nuxt",
               "nuxt4",
@@ -49,7 +49,7 @@
             "open_issues": 1,
             "owner": "kvnxiao",
             "repo": "tauri-nextjs-template",
-            "stars": 692,
+            "stars": 693,
             "topics": [
               "biome",
               "biomejs",
@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-20T04:03:34Z",
+            "last_commit": "2026-11-21T00:08:11Z",
             "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -160,7 +160,7 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T05:13:26Z",
+            "last_commit": "2026-11-20T11:07:44Z",
             "open_issues": 2,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
@@ -374,6 +374,27 @@
         },
         {
           "node_type": "item",
+          "title": "rust-full-stack-with-authentication-template",
+          "description": "Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A template with a robust authentication solution for fullstack development entirely in Rust",
+            "homepage": null,
+            "id": 769662997,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2025-10-18T15:41:46Z",
+            "open_issues": 0,
+            "owner": "sollambert",
+            "repo": "rust-full-stack-with-auth-template",
+            "stars": 114,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-sveltekit-template",
           "description": "SvelteKit Admin template with cross-platform GitHub action builds, Vite, TypeScript, Svelte Preprocess, hot module replacement, ESLint and Prettier.",
           "children": [],
@@ -397,27 +418,6 @@
               "tailwindcss",
               "tauri"
             ]
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "rust-full-stack-with-authentication-template",
-          "description": "Yew, Tailwind CSS, Tauri, Axum, Sqlx - Starter template for full stack applications with built-in authentication.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A template with a robust authentication solution for fullstack development entirely in Rust",
-            "homepage": null,
-            "id": 769662997,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2025-10-18T15:41:46Z",
-            "open_issues": 0,
-            "owner": "sollambert",
-            "repo": "rust-full-stack-with-auth-template",
-            "stars": 113,
-            "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -730,8 +730,8 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T09:48:44Z",
-            "open_issues": 483,
+            "last_commit": "2026-11-20T16:48:37Z",
+            "open_issues": 484,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
             "stars": 1844,
@@ -1428,8 +1428,8 @@
             "id": 1118411810,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T09:26:43Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-20T21:02:12Z",
+            "open_issues": 2,
             "owner": "cyberlife-coder",
             "repo": "VelesDB",
             "stars": 105,
@@ -1758,7 +1758,7 @@
             "open_issues": 0,
             "owner": "edisdev",
             "repo": "tauri-plugin-device-info",
-            "stars": 37,
+            "stars": 39,
             "topics": [
               "android",
               "desk",
@@ -1836,7 +1836,7 @@
             "id": 1168563457,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-14T12:49:59Z",
+            "last_commit": "2026-11-20T14:19:13Z",
             "open_issues": 0,
             "owner": "s00d",
             "repo": "tauri-plugin-widgets",
@@ -2117,8 +2117,8 @@
             "id": 562488334,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-20T09:47:09Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-20T15:43:43Z",
+            "open_issues": 4,
             "owner": "specta-rs",
             "repo": "tauri-specta",
             "stars": 822,
@@ -2173,7 +2173,7 @@
             "open_issues": 21,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "automation",
               "cli",
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:59:01.273Z",
+    "last_updated": "2026-11-21T09:45:50.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2441,10 +2441,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-08-24T10:14:22Z",
-      "open_issues": 39,
+      "open_issues": 40,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
-      "stars": 8182,
+      "stars": 8184,
       "topics": [
         "awesome",
         "awesome-list",
