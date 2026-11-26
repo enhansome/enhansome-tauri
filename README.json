@@ -78,7 +78,7 @@
             "id": 485947529,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-23T11:14:47Z",
+            "last_commit": "2026-11-25T18:31:20Z",
             "open_issues": 13,
             "owner": "Uninen",
             "repo": "tauri-vue-template",
@@ -143,7 +143,7 @@
             "open_issues": 3,
             "owner": "dannysmith",
             "repo": "tauri-template",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
@@ -160,7 +160,7 @@
             "id": 420092493,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T06:44:02Z",
+            "last_commit": "2026-11-26T05:33:10Z",
             "open_issues": 1,
             "owner": "AR10Dev",
             "repo": "tauri-solid-ts-tailwind-vite",
@@ -601,7 +601,7 @@
             "id": 1126651275,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T00:03:49Z",
+            "last_commit": "2026-11-25T23:59:50Z",
             "open_issues": 2,
             "owner": "kvnxiao",
             "repo": "tauri-tanstack-start-react-template",
@@ -730,7 +730,7 @@
             "id": 450890277,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T11:07:21Z",
+            "last_commit": "2026-11-26T08:45:43Z",
             "open_issues": 463,
             "owner": "tauri-apps",
             "repo": "plugins-workspace",
@@ -756,7 +756,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-21T22:54:08Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "tauri-apps",
             "repo": "window-vibrancy",
             "stars": 1042,
@@ -946,7 +946,7 @@
             "open_issues": 5,
             "owner": "getsentry",
             "repo": "sentry-tauri",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "tag-production"
             ]
@@ -1723,6 +1723,37 @@
         },
         {
           "node_type": "item",
+          "title": "tauri-plugin-device-info",
+          "description": "Access comprehensive device information including battery, network, storage, display, and system details across desktop and mobile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A comprehensive Tauri plugin to access device information including Battery, Network, Storage, Display, and System Details.",
+            "homepage": "https://edisdev.github.io/tauri-plugin-device-info/",
+            "id": 1141674043,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-11-24T14:48:22Z",
+            "open_issues": 0,
+            "owner": "edisdev",
+            "repo": "tauri-plugin-device-info",
+            "stars": 40,
+            "topics": [
+              "android",
+              "desk",
+              "desktop-app",
+              "device-info",
+              "ios",
+              "rust",
+              "tauri",
+              "tauri-plugin",
+              "tauri-plugin-device-info"
+            ]
+          },
+          "first_seen": "2026-08-28T14:19:57.640Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-android-fs",
           "description": "Access the file system on Android.",
           "children": [],
@@ -1739,37 +1770,6 @@
             "repo": "tauri-plugin-android-fs",
             "stars": 39,
             "topics": []
-          },
-          "first_seen": "2026-08-28T14:19:57.640Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-plugin-device-info",
-          "description": "Access comprehensive device information including battery, network, storage, display, and system details across desktop and mobile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive Tauri plugin to access device information including Battery, Network, Storage, Display, and System Details.",
-            "homepage": "https://edisdev.github.io/tauri-plugin-device-info/",
-            "id": 1141674043,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-11-24T14:48:22Z",
-            "open_issues": 0,
-            "owner": "edisdev",
-            "repo": "tauri-plugin-device-info",
-            "stars": 39,
-            "topics": [
-              "android",
-              "desk",
-              "desktop-app",
-              "device-info",
-              "ios",
-              "rust",
-              "tauri",
-              "tauri-plugin",
-              "tauri-plugin-device-info"
-            ]
           },
           "first_seen": "2026-08-28T14:19:57.640Z"
         },
@@ -1996,6 +1996,27 @@
         },
         {
           "node_type": "item",
+          "title": "connectrpc-tauri",
+          "description": "Connect RPC transport over the IPC, supporting unary, server streaming, client streaming and bidi methods without an HTTP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Connect RPC transport over Tauri IPC",
+            "homepage": null,
+            "id": 1337873805,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-26T10:24:48Z",
+            "open_issues": 9,
+            "owner": "mathematic-inc",
+            "repo": "connectrpc-tauri",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-11-26T10:50:47.067Z"
+        },
+        {
+          "node_type": "item",
           "title": "tauri-plugin-android-battery-optimization",
           "description": "Check and request battery optimization exemptions on Android.",
           "children": [],
@@ -2117,11 +2138,11 @@
             "id": 562488334,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-25T02:18:55Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-26T06:18:36Z",
+            "open_issues": 5,
             "owner": "specta-rs",
             "repo": "tauri-specta",
-            "stars": 823,
+            "stars": 822,
             "topics": [
               "rspc",
               "specta",
@@ -2169,11 +2190,11 @@
             "id": 1104967813,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T05:16:13Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-25T16:26:30Z",
+            "open_issues": 17,
             "owner": "hypothesi",
             "repo": "mcp-server-tauri",
-            "stars": 339,
+            "stars": 338,
             "topics": [
               "automation",
               "cli",
@@ -2432,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T11:14:58.626Z",
+    "last_updated": "2026-11-26T10:50:47.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 Awesome Tauri Apps, Plugins and Resources",
@@ -2440,8 +2461,8 @@
       "id": 450871432,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-24T10:14:22Z",
-      "open_issues": 40,
+      "last_commit": "2026-11-26T08:46:36Z",
+      "open_issues": 39,
       "owner": "tauri-apps",
       "repo": "awesome-tauri",
       "stars": 8193,
@@ -2451,7 +2472,7 @@
         "tauri"
       ]
     },
-    "original_repository_sha": "a68d51963d5aea5e1cf2149cce4ac752166e2587",
+    "original_repository_sha": "2a41f1cf3f8fd8f163e129fe2ee5233b643d0ee2",
     "enhanced_repository": "enhansome/enhansome-tauri",
     "enhanced_repository_description": null,
     "title": "Awesome tauri with stars"
